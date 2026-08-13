@@ -1,0 +1,320 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "a curated gallery of Linux desktop setups"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "HynDuf/dotfiles — Beautiful, lovely, and warm dotfile, the best dotfile you can find—beautiful, clean, and customizable. Use it now!",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-06-10T01:37:16Z",
+            "owner": "HynDuf",
+            "repo": "dotfiles",
+            "stars": 412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LambBread/my-dotfiles —",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nix",
+            "last_commit": "2026-08-13T02:52:40Z",
+            "owner": "LambBread",
+            "repo": "my-dotfiles",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "bspwm"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nickjj/dotfriedrice — An opinionated but customizable set of configs and scripts designed to help you quickly set up your system. It's aimed at anyone who deeply cares about how they use computers (developers, power users, etc.).",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-08T13:22:34Z",
+            "owner": "nickjj",
+            "repo": "dotfriedrice",
+            "stars": 1314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cybersnake223/Hypr — A minimal, keyboard-driven Hyprland dotfiles setup for Arch Linux. Laptop-first. Script-heavy. Zero bloat.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-08T16:24:57Z",
+            "owner": "Cybersnake223",
+            "repo": "Hypr",
+            "stars": 460
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cebem1nt/dotfiles — Modular, well documented hyprland dotfiles built with classic rofi, swaync and waybar. Also incudes a light & dark theme, a collection of wallpapers and scripts.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-07T00:58:35Z",
+            "owner": "cebem1nt",
+            "repo": "dotfiles",
+            "stars": 282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zhaleff/BlackNode — BlackNode a simple, basic dotfile for hyprland, hyprland configurations, nvim, etc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-13T14:40:53Z",
+            "owner": "zhaleff",
+            "repo": "BlackNode",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zhaleff/BlackNode — A classic dotfile built with the traditional dotfile staples of the past, featuring dynamic colors and a touch of Material You 3.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-13T14:40:53Z",
+            "owner": "zhaleff",
+            "repo": "BlackNode",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zhaleff/hyprcraft — Dotfile minimal yet beautiful, simple yet fast, so you can build your own dotfile",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2026-05-05T02:45:44Z",
+            "owner": "zhaleff",
+            "repo": "hyprcraft",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "na-ive/nandoroid-shell — quickshell based hyprland shell, Android custom ROM inspired.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "QML",
+            "last_commit": "2026-08-13T19:37:41Z",
+            "owner": "na-ive",
+            "repo": "nandoroid-shell",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "binoymanoj/dotfiles —",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-10T03:20:32Z",
+            "owner": "binoymanoj",
+            "repo": "dotfiles",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NotAShelf/dotfiles — This is where I periodically throw my configuration files. You might be here for something specific, in that case I recommend that you scroll below for the repository map and find what you are looking for",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Nix",
+            "last_commit": "2023-04-13T21:37:21Z",
+            "owner": "NotAShelf",
+            "repo": "dotfiles",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "berthosefin/dots —",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-08-13T15:52:40Z",
+            "owner": "berthosefin",
+            "repo": "dots",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AdiKsOnDev/Monoland — A Monochromatic themed Hyprland rice with Quickshell widgets. Sleek animations, MaterialUI-style components, dynamic color-detection based on the selected Wallpaper.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "QML",
+            "last_commit": "2026-07-23T09:51:53Z",
+            "owner": "AdiKsOnDev",
+            "repo": "Monoland",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Grey-007/Hyprmat-dots —",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-05-17T08:21:38Z",
+            "owner": "Grey-007",
+            "repo": "Hyprmat-dots",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aktyn/hyprland-setup — It's a comprehensive, feature-rich Hyprland configuration with Quickshell integration, custom SDDM theme, and carefully selected applications for an optimal desktop experience. This project is made for personal use although I'm happy to implement additional features upon request.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "QML",
+            "last_commit": "2026-07-23T12:04:57Z",
+            "owner": "Aktyn",
+            "repo": "hyprland-setup",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESHAYAT102/dotfiles — Minimal Omarchy rice",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "QML",
+            "last_commit": "2026-08-13T20:22:58Z",
+            "owner": "ESHAYAT102",
+            "repo": "dotfiles",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HeroHunterIguess/Darkblue-breakcore-Hyprland — Breakcore / alt future styled rice",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-21T00:21:07Z",
+            "owner": "HeroHunterIguess",
+            "repo": "HyprBreakcore-Rice",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plutonium-sh/lazerbar — it's cool, and it has a lot of features",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "QML",
+            "last_commit": "2026-07-17T01:51:49Z",
+            "owner": "plutonium-sh",
+            "repo": "lazerbar",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Hyprland"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Jotalea/i3-dots — this rice is inspired by the Geometry Dash level \"Nullscapes\", with the grayscale low-poly mountains background.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-12-02T00:15:11Z",
+            "owner": "Jotalea",
+            "repo": "i3-dots",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sajidbytes/CLUNUX — This is my personal rice of i3wm with a warm orange gruvbox like theme. I've decided to make this after CLU from TRON.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-07-14T11:31:00Z",
+            "owner": "sajidbytes",
+            "repo": "CLUNUX",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "i3"
+    },
+    {
+      "description": "Want your setup in here? Submit it at awesome-dotfiles.web.app with a screenshot, color palette, and dotfiles link. Once approved it shows up on the site and in this index.\nmade with ♥ by the community · website · submit your dots",
+      "items": [],
+      "title": "✦ Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T23:37:41.366Z",
+    "original_repository": "zhaleff/AwesomeDotfiles",
+    "original_repository_sha": "6824135e2c7fe7c459ef11ea182ee7cc81d42e48",
+    "enhanced_repository": "enhansome/enhansome-AwesomeDotfiles",
+    "enhanced_repository_description": null,
+    "title": "Awesome AwesomeDotfiles with stars"
+  }
+}
