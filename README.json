@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "Nix",
-            "last_commit": "2026-08-13T02:52:40Z",
+            "last_commit": "2026-08-14T20:48:50Z",
             "owner": "LambBread",
             "repo": "my-dotfiles",
             "stars": 1
@@ -53,7 +53,7 @@
             "last_commit": "2026-08-08T13:22:34Z",
             "owner": "nickjj",
             "repo": "dotfriedrice",
-            "stars": 1314
+            "stars": 1312
           }
         },
         {
@@ -78,10 +78,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-07T00:58:35Z",
+            "last_commit": "2026-08-14T22:05:06Z",
             "owner": "cebem1nt",
             "repo": "dotfiles",
-            "stars": 282
+            "stars": 281
           }
         },
         {
@@ -114,6 +114,20 @@
         },
         {
           "node_type": "item",
+          "title": "na-ive/nandoroid-shell — quickshell based hyprland shell, Android custom ROM inspired.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "QML",
+            "last_commit": "2026-08-14T12:06:55Z",
+            "owner": "na-ive",
+            "repo": "nandoroid-shell",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
           "title": "zhaleff/hyprcraft — Dotfile minimal yet beautiful, simple yet fast, so you can build your own dotfile",
           "description": null,
           "children": [],
@@ -124,20 +138,6 @@
             "owner": "zhaleff",
             "repo": "hyprcraft",
             "stars": 121
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "na-ive/nandoroid-shell — quickshell based hyprland shell, Android custom ROM inspired.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "QML",
-            "last_commit": "2026-08-13T19:37:41Z",
-            "owner": "na-ive",
-            "repo": "nandoroid-shell",
-            "stars": 113
           }
         },
         {
@@ -176,7 +176,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-13T15:52:40Z",
+            "last_commit": "2026-08-13T23:47:56Z",
             "owner": "berthosefin",
             "repo": "dots",
             "stars": 20
@@ -232,7 +232,7 @@
           "repo_info": {
             "archived": false,
             "language": "QML",
-            "last_commit": "2026-08-13T20:22:58Z",
+            "last_commit": "2026-08-14T10:49:00Z",
             "owner": "ESHAYAT102",
             "repo": "dotfiles",
             "stars": 8
@@ -310,7 +310,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T23:37:41.366Z",
+    "last_updated": "2026-08-14T23:18:24.617Z",
     "original_repository": "zhaleff/AwesomeDotfiles",
     "original_repository_sha": "6824135e2c7fe7c459ef11ea182ee7cc81d42e48",
     "enhanced_repository": "enhansome/enhansome-AwesomeDotfiles",

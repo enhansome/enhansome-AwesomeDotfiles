@@ -41,7 +41,7 @@
 
 * **[HynDuf/dotfiles](https://github.com/HynDuf/dotfiles) ⭐ 412 | 🐛 0 | 🌐 CSS | 📅 2024-06-10** — `HynDuf`\
   Beautiful, lovely, and warm dotfile, the best dotfile you can find—beautiful, clean, and customizable. Use it now!
-* **[LambBread/my-dotfiles](https://github.com/LambBread/my-dotfiles) ⭐ 1 | 🐛 0 | 🌐 Nix | 📅 2026-08-13** — `anonymous`
+* **[LambBread/my-dotfiles](https://github.com/LambBread/my-dotfiles) ⭐ 1 | 🐛 0 | 🌐 Nix | 📅 2026-08-14** — `anonymous`
 
 </details>
 
@@ -50,20 +50,20 @@
 <details>
 <summary><strong>Arch</strong> (17)</summary>
 
-* **[nickjj/dotfriedrice](https://github.com/nickjj/dotfriedrice) ⭐ 1,314 | 🐛 1 | 🌐 Shell | 📅 2026-08-08** — `nickjj`\
+* **[nickjj/dotfriedrice](https://github.com/nickjj/dotfriedrice) ⭐ 1,312 | 🐛 1 | 🌐 Shell | 📅 2026-08-08** — `nickjj`\
   An opinionated but customizable set of configs and scripts designed to help you quickly set up your system. It's aimed at anyone who deeply cares about how they use computers (developers, power users, etc.).
 * **[Cybersnake223/Hypr](https://github.com/Cybersnake223/Hypr) ⭐ 460 | 🐛 0 | 🌐 Shell | 📅 2026-08-08** — `cybersnake223`\
   A minimal, keyboard-driven Hyprland dotfiles setup for Arch Linux. Laptop-first. Script-heavy. Zero bloat.
-* **[cebem1nt/dotfiles](https://github.com/cebem1nt/dotfiles) ⭐ 282 | 🐛 0 | 🌐 Shell | 📅 2026-08-07** — `cebem1nt`\
+* **[cebem1nt/dotfiles](https://github.com/cebem1nt/dotfiles) ⭐ 281 | 🐛 0 | 🌐 Shell | 📅 2026-08-14** — `cebem1nt`\
   Modular, well documented hyprland dotfiles built with classic rofi, swaync and waybar. Also incudes a light & dark theme, a collection of wallpapers and scripts.
 * **[zhaleff/BlackNode](https://github.com/zhaleff/BlackNode) ⭐ 161 | 🐛 3 | 🌐 Shell | 📅 2026-08-13** — `Zhaleff`\
   BlackNode a simple, basic dotfile for hyprland, hyprland configurations, nvim, etc
 * **[zhaleff/BlackNode](https://github.com/zhaleff/BlackNode) ⭐ 161 | 🐛 3 | 🌐 Shell | 📅 2026-08-13** — `zhaleff`\
   A classic dotfile built with the traditional dotfile staples of the past, featuring dynamic colors and a touch of Material You 3.
+* **[na-ive/nandoroid-shell](https://github.com/na-ive/nandoroid-shell) ⭐ 123 | 🐛 0 | 🌐 QML | 📅 2026-08-14** — `na-ive`\
+  quickshell based hyprland shell, Android custom ROM inspired.
 * **[zhaleff/hyprcraft](https://github.com/zhaleff/hyprcraft) ⭐ 121 | 🐛 1 | 🌐 SCSS | 📅 2026-05-05** — `Zhaleff`\
   Dotfile minimal yet beautiful, simple yet fast, so you can build your own dotfile
-* **[na-ive/nandoroid-shell](https://github.com/na-ive/nandoroid-shell) ⭐ 113 | 🐛 0 | 🌐 QML | 📅 2026-08-13** — `na-ive`\
-  quickshell based hyprland shell, Android custom ROM inspired.
 * **[binoymanoj/dotfiles](https://github.com/binoymanoj/dotfiles) ⭐ 64 | 🐛 0 | 🌐 Shell | 📅 2026-08-10** — `anonymous`
 * **[NotAShelf/dotfiles](https://github.com/NotAShelf/dotfiles) ⚠️ Archived** — `NotAshelf`\
   This is where I periodically throw my configuration files. You might be here for something specific, in that case I recommend that you scroll below for the repository map and find what you are looking for
@@ -76,7 +76,7 @@
 * **[Aktyn/hyprland-setup](https://github.com/Aktyn/hyprland-setup) ⭐ 8 | 🐛 1 | 🌐 QML | 📅 2026-07-23** — `Aktyn`\
   It's a comprehensive, feature-rich Hyprland configuration with Quickshell integration, custom SDDM theme, and carefully selected applications for an optimal desktop experience.
   This project is made for personal use although I'm happy to implement additional features upon request.
-* **[ESHAYAT102/dotfiles](https://github.com/ESHAYAT102/dotfiles) ⭐ 8 | 🐛 0 | 🌐 QML | 📅 2026-08-13** — `Eshayat Al-Wasiu`\
+* **[ESHAYAT102/dotfiles](https://github.com/ESHAYAT102/dotfiles) ⭐ 8 | 🐛 0 | 🌐 QML | 📅 2026-08-14** — `Eshayat Al-Wasiu`\
   Minimal Omarchy rice
 * **[HeroHunterIguess/Darkblue-breakcore-Hyprland](https://github.com/HeroHunterIguess/Darkblue-breakcore-Hyprland/tree/main) ⭐ 3 | 🐛 0 | 🌐 Shell | 📅 2026-07-21** — `raylee`\
   Breakcore / alt future styled rice
@@ -148,7 +148,7 @@ dotfiles not available.
 <details>
 <summary><strong>Arch</strong> (1)</summary>
 
-* **[melatonia/meloworld-dotfiles](https://github.com/melatonia/meloworld-dotfiles) ⭐ 118 | 🐛 0 | 🌐 QML | 📅 2026-07-03** — `melatonia`\
+* **[melatonia/meloworld-dotfiles](https://github.com/melatonia/meloworld-dotfiles) ⭐ 120 | 🐛 0 | 🌐 QML | 📅 2026-07-03** — `melatonia`\
   My mangowm and quickshell rice heavily influenced by crylia theme!
 
 </details>
@@ -202,7 +202,7 @@ JES have a simple plugin system: just drop a folder with QML, import in shell.qm
 <details>
 <summary><strong>Debian</strong> (1)</summary>
 
-* **[LambBread/my-dotfiles](https://github.com/LambBread/my-dotfiles) ⭐ 1 | 🐛 0 | 🌐 Nix | 📅 2026-08-13** — `anonymous`
+* **[LambBread/my-dotfiles](https://github.com/LambBread/my-dotfiles) ⭐ 1 | 🐛 0 | 🌐 Nix | 📅 2026-08-14** — `anonymous`
 
 </details>
 
@@ -226,4 +226,4 @@ made with ♥ by the community · [website](https://awesome-dotfiles.vercel.app)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
