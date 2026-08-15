@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "Nix",
-            "last_commit": "2026-08-14T20:48:50Z",
+            "last_commit": "2026-08-15T20:29:17Z",
             "owner": "LambBread",
             "repo": "my-dotfiles",
             "stars": 1
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-14T22:05:06Z",
             "owner": "cebem1nt",
             "repo": "dotfiles",
-            "stars": 281
+            "stars": 282
           }
         },
         {
@@ -120,10 +120,10 @@
           "repo_info": {
             "archived": false,
             "language": "QML",
-            "last_commit": "2026-08-14T12:06:55Z",
+            "last_commit": "2026-08-15T07:59:25Z",
             "owner": "na-ive",
             "repo": "nandoroid-shell",
-            "stars": 123
+            "stars": 136
           }
         },
         {
@@ -148,7 +148,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-10T03:20:32Z",
+            "last_commit": "2026-08-15T11:12:59Z",
             "owner": "binoymanoj",
             "repo": "dotfiles",
             "stars": 64
@@ -232,7 +232,7 @@
           "repo_info": {
             "archived": false,
             "language": "QML",
-            "last_commit": "2026-08-14T10:49:00Z",
+            "last_commit": "2026-08-15T22:54:02Z",
             "owner": "ESHAYAT102",
             "repo": "dotfiles",
             "stars": 8
@@ -310,7 +310,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T23:18:24.617Z",
+    "last_updated": "2026-08-15T23:17:11.213Z",
     "original_repository": "zhaleff/AwesomeDotfiles",
     "original_repository_sha": "6824135e2c7fe7c459ef11ea182ee7cc81d42e48",
     "enhanced_repository": "enhansome/enhansome-AwesomeDotfiles",
