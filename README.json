@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "Nix",
-            "last_commit": "2026-08-15T20:29:17Z",
+            "last_commit": "2026-08-16T19:20:39Z",
             "owner": "LambBread",
             "repo": "my-dotfiles",
             "stars": 1
@@ -53,7 +53,7 @@
             "last_commit": "2026-08-08T13:22:34Z",
             "owner": "nickjj",
             "repo": "dotfriedrice",
-            "stars": 1312
+            "stars": 1313
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-14T22:05:06Z",
             "owner": "cebem1nt",
             "repo": "dotfiles",
-            "stars": 282
+            "stars": 283
           }
         },
         {
@@ -120,10 +120,10 @@
           "repo_info": {
             "archived": false,
             "language": "QML",
-            "last_commit": "2026-08-15T07:59:25Z",
+            "last_commit": "2026-08-16T12:05:28Z",
             "owner": "na-ive",
             "repo": "nandoroid-shell",
-            "stars": 136
+            "stars": 140
           }
         },
         {
@@ -176,7 +176,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-13T23:47:56Z",
+            "last_commit": "2026-08-16T18:31:47Z",
             "owner": "berthosefin",
             "repo": "dots",
             "stars": 20
@@ -232,7 +232,7 @@
           "repo_info": {
             "archived": false,
             "language": "QML",
-            "last_commit": "2026-08-15T22:54:02Z",
+            "last_commit": "2026-08-16T19:08:39Z",
             "owner": "ESHAYAT102",
             "repo": "dotfiles",
             "stars": 8
@@ -310,7 +310,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T23:17:11.213Z",
+    "last_updated": "2026-08-16T23:16:32.464Z",
     "original_repository": "zhaleff/AwesomeDotfiles",
     "original_repository_sha": "6824135e2c7fe7c459ef11ea182ee7cc81d42e48",
     "enhanced_repository": "enhansome/enhansome-AwesomeDotfiles",
