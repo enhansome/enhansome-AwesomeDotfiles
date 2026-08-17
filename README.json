@@ -120,10 +120,10 @@
           "repo_info": {
             "archived": false,
             "language": "QML",
-            "last_commit": "2026-08-16T12:05:28Z",
+            "last_commit": "2026-08-17T19:46:59Z",
             "owner": "na-ive",
             "repo": "nandoroid-shell",
-            "stars": 140
+            "stars": 143
           }
         },
         {
@@ -176,7 +176,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-16T18:31:47Z",
+            "last_commit": "2026-08-17T15:48:29Z",
             "owner": "berthosefin",
             "repo": "dots",
             "stars": 20
@@ -190,7 +190,7 @@
           "repo_info": {
             "archived": false,
             "language": "QML",
-            "last_commit": "2026-07-23T09:51:53Z",
+            "last_commit": "2026-08-17T08:22:01Z",
             "owner": "AdiKsOnDev",
             "repo": "Monoland",
             "stars": 19
@@ -232,7 +232,7 @@
           "repo_info": {
             "archived": false,
             "language": "QML",
-            "last_commit": "2026-08-16T19:08:39Z",
+            "last_commit": "2026-08-17T21:26:48Z",
             "owner": "ESHAYAT102",
             "repo": "dotfiles",
             "stars": 8
@@ -261,7 +261,7 @@
             "archived": true,
             "language": "QML",
             "last_commit": "2026-07-17T01:51:49Z",
-            "owner": "plutonium-sh",
+            "owner": "plutonyumm",
             "repo": "lazerbar",
             "stars": 1
           }
@@ -310,7 +310,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T23:16:32.464Z",
+    "last_updated": "2026-08-17T23:20:20.631Z",
     "original_repository": "zhaleff/AwesomeDotfiles",
     "original_repository_sha": "6824135e2c7fe7c459ef11ea182ee7cc81d42e48",
     "enhanced_repository": "enhansome/enhansome-AwesomeDotfiles",
