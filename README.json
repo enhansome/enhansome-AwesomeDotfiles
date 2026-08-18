@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "Nix",
-            "last_commit": "2026-08-16T19:20:39Z",
+            "last_commit": "2026-08-18T01:29:48Z",
             "owner": "LambBread",
             "repo": "my-dotfiles",
             "stars": 1
@@ -67,7 +67,7 @@
             "last_commit": "2026-08-08T16:24:57Z",
             "owner": "Cybersnake223",
             "repo": "Hypr",
-            "stars": 460
+            "stars": 462
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-14T22:05:06Z",
             "owner": "cebem1nt",
             "repo": "dotfiles",
-            "stars": 283
+            "stars": 284
           }
         },
         {
@@ -95,7 +95,7 @@
             "last_commit": "2026-08-13T14:40:53Z",
             "owner": "zhaleff",
             "repo": "BlackNode",
-            "stars": 161
+            "stars": 162
           }
         },
         {
@@ -109,7 +109,7 @@
             "last_commit": "2026-08-13T14:40:53Z",
             "owner": "zhaleff",
             "repo": "BlackNode",
-            "stars": 161
+            "stars": 162
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2026-08-17T19:46:59Z",
             "owner": "na-ive",
             "repo": "nandoroid-shell",
-            "stars": 143
+            "stars": 145
           }
         },
         {
@@ -176,7 +176,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-17T15:48:29Z",
+            "last_commit": "2026-08-18T16:17:12Z",
             "owner": "berthosefin",
             "repo": "dots",
             "stars": 20
@@ -232,7 +232,7 @@
           "repo_info": {
             "archived": false,
             "language": "QML",
-            "last_commit": "2026-08-17T21:26:48Z",
+            "last_commit": "2026-08-18T18:49:40Z",
             "owner": "ESHAYAT102",
             "repo": "dotfiles",
             "stars": 8
@@ -310,7 +310,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T23:20:20.631Z",
+    "last_updated": "2026-08-18T23:18:51.921Z",
     "original_repository": "zhaleff/AwesomeDotfiles",
     "original_repository_sha": "6824135e2c7fe7c459ef11ea182ee7cc81d42e48",
     "enhanced_repository": "enhansome/enhansome-AwesomeDotfiles",
