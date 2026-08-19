@@ -64,7 +64,7 @@
   quickshell based hyprland shell, Android custom ROM inspired.
 * **[zhaleff/hyprcraft](https://github.com/zhaleff/hyprcraft) ⭐ 121 | 🐛 1 | 🌐 SCSS | 📅 2026-05-05** — `Zhaleff`\
   Dotfile minimal yet beautiful, simple yet fast, so you can build your own dotfile
-* **[binoymanoj/dotfiles](https://github.com/binoymanoj/dotfiles) ⭐ 64 | 🐛 0 | 🌐 Shell | 📅 2026-08-15** — `anonymous`
+* **[binoymanoj/dotfiles](https://github.com/binoymanoj/dotfiles) ⭐ 65 | 🐛 0 | 🌐 Shell | 📅 2026-08-15** — `anonymous`
 * **[NotAShelf/dotfiles](https://github.com/NotAShelf/dotfiles) ⚠️ Archived** — `NotAshelf`\
   This is where I periodically throw my configuration files. You might be here for something specific, in that case I recommend that you scroll below for the repository map and find what you are looking for
 * **[berthosefin/dots](https://github.com/berthosefin/dots) ⭐ 20 | 🐛 0 | 🌐 Lua | 📅 2026-08-18** — `berthosefin`
@@ -226,4 +226,4 @@ made with ♥ by the community · [website](https://awesome-dotfiles.vercel.app)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._

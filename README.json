@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "a curated gallery of Linux desktop setups"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 497632679,
             "language": "CSS",
             "last_commit": "2024-06-10T01:37:16Z",
             "owner": "HynDuf",
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1117217637,
             "language": "Nix",
             "last_commit": "2026-08-18T01:29:48Z",
             "owner": "LambBread",
@@ -40,7 +37,7 @@
       "title": "bspwm"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -49,6 +46,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 162295765,
             "language": "Shell",
             "last_commit": "2026-08-08T13:22:34Z",
             "owner": "nickjj",
@@ -63,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 685795379,
             "language": "Shell",
             "last_commit": "2026-08-08T16:24:57Z",
             "owner": "Cybersnake223",
@@ -77,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 867164576,
             "language": "Shell",
             "last_commit": "2026-08-14T22:05:06Z",
             "owner": "cebem1nt",
@@ -91,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1114105225,
             "language": "Shell",
             "last_commit": "2026-08-13T14:40:53Z",
             "owner": "zhaleff",
@@ -105,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1114105225,
             "language": "Shell",
             "last_commit": "2026-08-13T14:40:53Z",
             "owner": "zhaleff",
@@ -119,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1163194639,
             "language": "QML",
             "last_commit": "2026-08-17T19:46:59Z",
             "owner": "na-ive",
@@ -133,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1026748094,
             "language": "SCSS",
             "last_commit": "2026-05-05T02:45:44Z",
             "owner": "zhaleff",
@@ -147,11 +151,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1048158764,
             "language": "Shell",
             "last_commit": "2026-08-15T11:12:59Z",
             "owner": "binoymanoj",
             "repo": "dotfiles",
-            "stars": 64
+            "stars": 65
           }
         },
         {
@@ -161,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 534394616,
             "language": "Nix",
             "last_commit": "2023-04-13T21:37:21Z",
             "owner": "NotAShelf",
@@ -175,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 676438222,
             "language": "Lua",
             "last_commit": "2026-08-18T16:17:12Z",
             "owner": "berthosefin",
@@ -189,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1174317390,
             "language": "QML",
             "last_commit": "2026-08-17T08:22:01Z",
             "owner": "AdiKsOnDev",
@@ -203,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1127072542,
             "language": "CSS",
             "last_commit": "2026-05-17T08:21:38Z",
             "owner": "Grey-007",
@@ -217,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1060687593,
             "language": "QML",
             "last_commit": "2026-07-23T12:04:57Z",
             "owner": "Aktyn",
@@ -231,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1092311957,
             "language": "QML",
             "last_commit": "2026-08-18T18:49:40Z",
             "owner": "ESHAYAT102",
@@ -245,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1091982243,
             "language": "Shell",
             "last_commit": "2026-07-21T00:21:07Z",
             "owner": "HeroHunterIguess",
@@ -259,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1250787036,
             "language": "QML",
             "last_commit": "2026-07-17T01:51:49Z",
             "owner": "plutonyumm",
@@ -270,7 +283,7 @@
       "title": "Hyprland"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -279,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1107984512,
             "language": "Shell",
             "last_commit": "2025-12-02T00:15:11Z",
             "owner": "Jotalea",
@@ -293,6 +307,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1255240039,
             "language": "Lua",
             "last_commit": "2026-07-14T11:31:00Z",
             "owner": "sajidbytes",
@@ -302,16 +317,12 @@
         }
       ],
       "title": "i3"
-    },
-    {
-      "description": "Want your setup in here? Submit it at awesome-dotfiles.web.app with a screenshot, color palette, and dotfiles link. Once approved it shows up on the site and in this index.\nmade with ♥ by the community · website · submit your dots",
-      "items": [],
-      "title": "✦ Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T23:18:51.921Z",
+    "last_updated": "2026-08-19T12:12:08.542Z",
     "original_repository": "zhaleff/AwesomeDotfiles",
+    "original_repository_id": 1213933186,
     "original_repository_sha": "6824135e2c7fe7c459ef11ea182ee7cc81d42e48",
     "enhanced_repository": "enhansome/enhansome-AwesomeDotfiles",
     "enhanced_repository_description": null,
