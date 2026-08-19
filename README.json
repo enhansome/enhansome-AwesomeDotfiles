@@ -27,7 +27,7 @@
             "archived": false,
             "id": 1117217637,
             "language": "Nix",
-            "last_commit": "2026-08-18T01:29:48Z",
+            "last_commit": "2026-08-19T21:22:44Z",
             "owner": "LambBread",
             "repo": "my-dotfiles",
             "stars": 1
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-17T19:46:59Z",
             "owner": "na-ive",
             "repo": "nandoroid-shell",
-            "stars": 145
+            "stars": 146
           }
         },
         {
@@ -183,7 +183,7 @@
             "archived": false,
             "id": 676438222,
             "language": "Lua",
-            "last_commit": "2026-08-18T16:17:12Z",
+            "last_commit": "2026-08-19T15:10:20Z",
             "owner": "berthosefin",
             "repo": "dots",
             "stars": 20
@@ -320,7 +320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:12:08.542Z",
+    "last_updated": "2026-08-19T23:19:31.795Z",
     "original_repository": "zhaleff/AwesomeDotfiles",
     "original_repository_id": 1213933186,
     "original_repository_sha": "6824135e2c7fe7c459ef11ea182ee7cc81d42e48",
