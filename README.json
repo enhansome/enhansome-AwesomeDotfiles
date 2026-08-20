@@ -27,7 +27,7 @@
             "archived": false,
             "id": 1117217637,
             "language": "Nix",
-            "last_commit": "2026-08-19T21:22:44Z",
+            "last_commit": "2026-08-20T19:09:09Z",
             "owner": "LambBread",
             "repo": "my-dotfiles",
             "stars": 1
@@ -51,7 +51,7 @@
             "last_commit": "2026-08-08T13:22:34Z",
             "owner": "nickjj",
             "repo": "dotfriedrice",
-            "stars": 1313
+            "stars": 1314
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-14T22:05:06Z",
             "owner": "cebem1nt",
             "repo": "dotfiles",
-            "stars": 284
+            "stars": 285
           }
         },
         {
@@ -123,10 +123,10 @@
             "archived": false,
             "id": 1163194639,
             "language": "QML",
-            "last_commit": "2026-08-17T19:46:59Z",
+            "last_commit": "2026-08-20T19:31:49Z",
             "owner": "na-ive",
             "repo": "nandoroid-shell",
-            "stars": 146
+            "stars": 147
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-08-15T11:12:59Z",
             "owner": "binoymanoj",
             "repo": "dotfiles",
-            "stars": 65
+            "stars": 66
           }
         },
         {
@@ -183,7 +183,7 @@
             "archived": false,
             "id": 676438222,
             "language": "Lua",
-            "last_commit": "2026-08-19T15:10:20Z",
+            "last_commit": "2026-08-20T16:28:06Z",
             "owner": "berthosefin",
             "repo": "dots",
             "stars": 20
@@ -243,7 +243,7 @@
             "archived": false,
             "id": 1092311957,
             "language": "QML",
-            "last_commit": "2026-08-18T18:49:40Z",
+            "last_commit": "2026-08-20T05:47:17Z",
             "owner": "ESHAYAT102",
             "repo": "dotfiles",
             "stars": 8
@@ -320,7 +320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T23:19:31.795Z",
+    "last_updated": "2026-08-20T23:22:05.782Z",
     "original_repository": "zhaleff/AwesomeDotfiles",
     "original_repository_id": 1213933186,
     "original_repository_sha": "6824135e2c7fe7c459ef11ea182ee7cc81d42e48",
