@@ -54,13 +54,13 @@
   An opinionated but customizable set of configs and scripts designed to help you quickly set up your system. It's aimed at anyone who deeply cares about how they use computers (developers, power users, etc.).
 * **[Cybersnake223/Hypr](https://github.com/Cybersnake223/Hypr) ⭐ 462 | 🐛 0 | 🌐 Shell | 📅 2026-08-08** — `cybersnake223`\
   A minimal, keyboard-driven Hyprland dotfiles setup for Arch Linux. Laptop-first. Script-heavy. Zero bloat.
-* **[cebem1nt/dotfiles](https://github.com/cebem1nt/dotfiles) ⭐ 285 | 🐛 0 | 🌐 Shell | 📅 2026-08-14** — `cebem1nt`\
+* **[cebem1nt/dotfiles](https://github.com/cebem1nt/dotfiles) ⭐ 286 | 🐛 0 | 🌐 Shell | 📅 2026-08-14** — `cebem1nt`\
   Modular, well documented hyprland dotfiles built with classic rofi, swaync and waybar. Also incudes a light & dark theme, a collection of wallpapers and scripts.
 * **[zhaleff/BlackNode](https://github.com/zhaleff/BlackNode) ⭐ 162 | 🐛 3 | 🌐 Shell | 📅 2026-08-13** — `Zhaleff`\
   BlackNode a simple, basic dotfile for hyprland, hyprland configurations, nvim, etc
 * **[zhaleff/BlackNode](https://github.com/zhaleff/BlackNode) ⭐ 162 | 🐛 3 | 🌐 Shell | 📅 2026-08-13** — `zhaleff`\
   A classic dotfile built with the traditional dotfile staples of the past, featuring dynamic colors and a touch of Material You 3.
-* **[na-ive/nandoroid-shell](https://github.com/na-ive/nandoroid-shell) ⭐ 148 | 🐛 0 | 🌐 QML | 📅 2026-08-21** — `na-ive`\
+* **[na-ive/nandoroid-shell](https://github.com/na-ive/nandoroid-shell) ⭐ 149 | 🐛 0 | 🌐 QML | 📅 2026-08-22** — `na-ive`\
   quickshell based hyprland shell, Android custom ROM inspired.
 * **[zhaleff/hyprcraft](https://github.com/zhaleff/hyprcraft) ⭐ 121 | 🐛 1 | 🌐 SCSS | 📅 2026-05-05** — `Zhaleff`\
   Dotfile minimal yet beautiful, simple yet fast, so you can build your own dotfile
@@ -226,4 +226,4 @@ made with ♥ by the community · [website](https://awesome-dotfiles.vercel.app)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._

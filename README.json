@@ -81,7 +81,7 @@
             "last_commit": "2026-08-14T22:05:06Z",
             "owner": "cebem1nt",
             "repo": "dotfiles",
-            "stars": 285
+            "stars": 286
           }
         },
         {
@@ -123,10 +123,10 @@
             "archived": false,
             "id": 1163194639,
             "language": "QML",
-            "last_commit": "2026-08-21T05:35:42Z",
+            "last_commit": "2026-08-22T13:31:17Z",
             "owner": "na-ive",
             "repo": "nandoroid-shell",
-            "stars": 148
+            "stars": 149
           }
         },
         {
@@ -320,7 +320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T23:20:14.154Z",
+    "last_updated": "2026-08-22T23:17:18.207Z",
     "original_repository": "zhaleff/AwesomeDotfiles",
     "original_repository_id": 1213933186,
     "original_repository_sha": "6824135e2c7fe7c459ef11ea182ee7cc81d42e48",
