@@ -51,7 +51,7 @@
             "last_commit": "2026-08-08T13:22:34Z",
             "owner": "nickjj",
             "repo": "dotfriedrice",
-            "stars": 1315
+            "stars": 1319
           }
         },
         {
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 867164576,
             "language": "Shell",
-            "last_commit": "2026-08-14T22:05:06Z",
+            "last_commit": "2026-08-22T23:23:21Z",
             "owner": "cebem1nt",
             "repo": "dotfiles",
-            "stars": 286
+            "stars": 287
           }
         },
         {
@@ -93,7 +93,7 @@
             "archived": false,
             "id": 1114105225,
             "language": "Shell",
-            "last_commit": "2026-08-13T14:40:53Z",
+            "last_commit": "2026-08-23T21:24:58Z",
             "owner": "zhaleff",
             "repo": "BlackNode",
             "stars": 162
@@ -108,7 +108,7 @@
             "archived": false,
             "id": 1114105225,
             "language": "Shell",
-            "last_commit": "2026-08-13T14:40:53Z",
+            "last_commit": "2026-08-23T21:24:58Z",
             "owner": "zhaleff",
             "repo": "BlackNode",
             "stars": 162
@@ -123,10 +123,10 @@
             "archived": false,
             "id": 1163194639,
             "language": "QML",
-            "last_commit": "2026-08-22T13:31:17Z",
+            "last_commit": "2026-08-23T15:46:44Z",
             "owner": "na-ive",
             "repo": "nandoroid-shell",
-            "stars": 149
+            "stars": 152
           }
         },
         {
@@ -228,7 +228,7 @@
             "archived": false,
             "id": 1060687593,
             "language": "QML",
-            "last_commit": "2026-07-23T12:04:57Z",
+            "last_commit": "2026-08-23T09:35:16Z",
             "owner": "Aktyn",
             "repo": "hyprland-setup",
             "stars": 8
@@ -243,7 +243,7 @@
             "archived": false,
             "id": 1092311957,
             "language": "QML",
-            "last_commit": "2026-08-20T05:47:17Z",
+            "last_commit": "2026-08-23T16:29:10Z",
             "owner": "ESHAYAT102",
             "repo": "dotfiles",
             "stars": 8
@@ -320,7 +320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T23:17:18.207Z",
+    "last_updated": "2026-08-23T23:17:50.256Z",
     "original_repository": "zhaleff/AwesomeDotfiles",
     "original_repository_id": 1213933186,
     "original_repository_sha": "6824135e2c7fe7c459ef11ea182ee7cc81d42e48",
