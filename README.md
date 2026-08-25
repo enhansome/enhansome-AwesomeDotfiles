@@ -50,17 +50,17 @@
 <details>
 <summary><strong>Arch</strong> (17)</summary>
 
-* **[nickjj/dotfriedrice](https://github.com/nickjj/dotfriedrice) ⭐ 1,318 | 🐛 1 | 🌐 Shell | 📅 2026-08-24** — `nickjj`\
+* **[nickjj/dotfriedrice](https://github.com/nickjj/dotfriedrice) ⭐ 1,319 | 🐛 1 | 🌐 Shell | 📅 2026-08-24** — `nickjj`\
   An opinionated but customizable set of configs and scripts designed to help you quickly set up your system. It's aimed at anyone who deeply cares about how they use computers (developers, power users, etc.).
 * **[Cybersnake223/Hypr](https://github.com/Cybersnake223/Hypr) ⭐ 462 | 🐛 0 | 🌐 Shell | 📅 2026-08-08** — `cybersnake223`\
   A minimal, keyboard-driven Hyprland dotfiles setup for Arch Linux. Laptop-first. Script-heavy. Zero bloat.
-* **[cebem1nt/dotfiles](https://github.com/cebem1nt/dotfiles) ⭐ 287 | 🐛 0 | 🌐 Shell | 📅 2026-08-24** — `cebem1nt`\
+* **[cebem1nt/dotfiles](https://github.com/cebem1nt/dotfiles) ⭐ 288 | 🐛 0 | 🌐 Shell | 📅 2026-08-24** — `cebem1nt`\
   Modular, well documented hyprland dotfiles built with classic rofi, swaync and waybar. Also incudes a light & dark theme, a collection of wallpapers and scripts.
 * **[zhaleff/BlackNode](https://github.com/zhaleff/BlackNode) ⭐ 164 | 🐛 3 | 🌐 Shell | 📅 2026-08-23** — `Zhaleff`\
   BlackNode a simple, basic dotfile for hyprland, hyprland configurations, nvim, etc
 * **[zhaleff/BlackNode](https://github.com/zhaleff/BlackNode) ⭐ 164 | 🐛 3 | 🌐 Shell | 📅 2026-08-23** — `zhaleff`\
   A classic dotfile built with the traditional dotfile staples of the past, featuring dynamic colors and a touch of Material You 3.
-* **[na-ive/nandoroid-shell](https://github.com/na-ive/nandoroid-shell) ⭐ 153 | 🐛 0 | 🌐 QML | 📅 2026-08-24** — `na-ive`\
+* **[na-ive/nandoroid-shell](https://github.com/na-ive/nandoroid-shell) ⭐ 153 | 🐛 0 | 🌐 QML | 📅 2026-08-25** — `na-ive`\
   quickshell based hyprland shell, Android custom ROM inspired.
 * **[zhaleff/hyprcraft](https://github.com/zhaleff/hyprcraft) ⭐ 121 | 🐛 1 | 🌐 SCSS | 📅 2026-05-05** — `Zhaleff`\
   Dotfile minimal yet beautiful, simple yet fast, so you can build your own dotfile
@@ -76,7 +76,7 @@
 * **[Aktyn/hyprland-setup](https://github.com/Aktyn/hyprland-setup) ⭐ 8 | 🐛 0 | 🌐 QML | 📅 2026-08-23** — `Aktyn`\
   It's a comprehensive, feature-rich Hyprland configuration with Quickshell integration, custom SDDM theme, and carefully selected applications for an optimal desktop experience.
   This project is made for personal use although I'm happy to implement additional features upon request.
-* **[ESHAYAT102/dotfiles](https://github.com/ESHAYAT102/dotfiles) ⭐ 8 | 🐛 0 | 🌐 QML | 📅 2026-08-24** — `Eshayat Al-Wasiu`\
+* **[ESHAYAT102/dotfiles](https://github.com/ESHAYAT102/dotfiles) ⭐ 8 | 🐛 0 | 🌐 QML | 📅 2026-08-25** — `Eshayat Al-Wasiu`\
   Minimal Omarchy rice
 * **[HeroHunterIguess/Darkblue-breakcore-Hyprland](https://github.com/HeroHunterIguess/Darkblue-breakcore-Hyprland/tree/main) ⭐ 3 | 🐛 0 | 🌐 Shell | 📅 2026-07-21** — `raylee`\
   Breakcore / alt future styled rice
@@ -106,7 +106,7 @@
 <details>
 <summary><strong>NixOS</strong> (1)</summary>
 
-* **[binarylinuxx/dots.git](https://github.com/binarylinuxx/dots.git) ⭐ 36 | 🐛 0 | 🌐 QML | 📅 2026-07-17** — `binarylinuxx`\
+* **[binarylinuxx/dots.git](https://github.com/binarylinuxx/dots.git) ⭐ 37 | 🐛 0 | 🌐 QML | 📅 2026-07-17** — `binarylinuxx`\
   built from ground up by single person targeted to be minimal and follow material design
 
 </details>
