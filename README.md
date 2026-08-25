@@ -41,7 +41,7 @@
 
 * **[HynDuf/dotfiles](https://github.com/HynDuf/dotfiles) ⭐ 412 | 🐛 0 | 🌐 CSS | 📅 2024-06-10** — `HynDuf`\
   Beautiful, lovely, and warm dotfile, the best dotfile you can find—beautiful, clean, and customizable. Use it now!
-* **[LambBread/my-dotfiles](https://github.com/LambBread/my-dotfiles) ⭐ 1 | 🐛 0 | 🌐 Nix | 📅 2026-08-23** — `anonymous`
+* **[LambBread/my-dotfiles](https://github.com/LambBread/my-dotfiles) ⭐ 1 | 🐛 0 | 🌐 Nix | 📅 2026-08-25** — `anonymous`
 
 </details>
 
@@ -56,9 +56,9 @@
   A minimal, keyboard-driven Hyprland dotfiles setup for Arch Linux. Laptop-first. Script-heavy. Zero bloat.
 * **[cebem1nt/dotfiles](https://github.com/cebem1nt/dotfiles) ⭐ 287 | 🐛 0 | 🌐 Shell | 📅 2026-08-24** — `cebem1nt`\
   Modular, well documented hyprland dotfiles built with classic rofi, swaync and waybar. Also incudes a light & dark theme, a collection of wallpapers and scripts.
-* **[zhaleff/BlackNode](https://github.com/zhaleff/BlackNode) ⭐ 163 | 🐛 3 | 🌐 Shell | 📅 2026-08-23** — `Zhaleff`\
+* **[zhaleff/BlackNode](https://github.com/zhaleff/BlackNode) ⭐ 164 | 🐛 3 | 🌐 Shell | 📅 2026-08-23** — `Zhaleff`\
   BlackNode a simple, basic dotfile for hyprland, hyprland configurations, nvim, etc
-* **[zhaleff/BlackNode](https://github.com/zhaleff/BlackNode) ⭐ 163 | 🐛 3 | 🌐 Shell | 📅 2026-08-23** — `zhaleff`\
+* **[zhaleff/BlackNode](https://github.com/zhaleff/BlackNode) ⭐ 164 | 🐛 3 | 🌐 Shell | 📅 2026-08-23** — `zhaleff`\
   A classic dotfile built with the traditional dotfile staples of the past, featuring dynamic colors and a touch of Material You 3.
 * **[na-ive/nandoroid-shell](https://github.com/na-ive/nandoroid-shell) ⭐ 153 | 🐛 0 | 🌐 QML | 📅 2026-08-24** — `na-ive`\
   quickshell based hyprland shell, Android custom ROM inspired.
@@ -67,7 +67,7 @@
 * **[binoymanoj/dotfiles](https://github.com/binoymanoj/dotfiles) ⭐ 66 | 🐛 0 | 🌐 Shell | 📅 2026-08-15** — `anonymous`
 * **[NotAShelf/dotfiles](https://github.com/NotAShelf/dotfiles) ⚠️ Archived** — `NotAshelf`\
   This is where I periodically throw my configuration files. You might be here for something specific, in that case I recommend that you scroll below for the repository map and find what you are looking for
-* **[berthosefin/dots](https://github.com/berthosefin/dots) ⭐ 20 | 🐛 0 | 🌐 Lua | 📅 2026-08-24** — `berthosefin`
+* **[berthosefin/dots](https://github.com/berthosefin/dots) ⭐ 20 | 🐛 0 | 🌐 Lua | 📅 2026-08-25** — `berthosefin`
 * **[AdiKsOnDev/Monoland](https://github.com/AdiKsOnDev/Monoland) ⭐ 19 | 🐛 0 | 🌐 QML | 📅 2026-08-17** — `AdiKsOn`\
   A Monochromatic themed Hyprland rice with Quickshell widgets.
   Sleek animations, MaterialUI-style components, dynamic color-detection based
@@ -114,7 +114,7 @@
 <details>
 <summary><strong>Other</strong> (1)</summary>
 
-* **[michal-pielka/dotfiles](https://github.com/michal-pielka/dotfiles) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-07-27** — `michalpielka`\
+* **[michal-pielka/dotfiles](https://github.com/michal-pielka/dotfiles) ⭐ 2 | 🐛 2 | 🌐 Lua | 📅 2026-07-27** — `michalpielka`\
   Minimal terminal focused Hyprland setup.
 
 </details>
@@ -178,7 +178,7 @@ dotfiles not available.
 <details>
 <summary><strong>NixOS</strong> (1)</summary>
 
-* **[ORFLEM/just\_enough\_shell](https://github.com/ORFLEM/just_enough_shell/tree/main) ⭐ 28 | 🐛 0 | 🌐 QML | 📅 2026-07-30** — `_ORFLEM_`\
+* **[ORFLEM/just\_enough\_shell](https://github.com/ORFLEM/just_enough_shell/tree/main) ⭐ 29 | 🐛 0 | 🌐 QML | 📅 2026-07-30** — `_ORFLEM_`\
   Built for everyday practicality, not trends.
 
 Designed fro Desktop PC
@@ -202,7 +202,7 @@ JES have a simple plugin system: just drop a folder with QML, import in shell.qm
 <details>
 <summary><strong>Debian</strong> (1)</summary>
 
-* **[LambBread/my-dotfiles](https://github.com/LambBread/my-dotfiles) ⭐ 1 | 🐛 0 | 🌐 Nix | 📅 2026-08-23** — `anonymous`
+* **[LambBread/my-dotfiles](https://github.com/LambBread/my-dotfiles) ⭐ 1 | 🐛 0 | 🌐 Nix | 📅 2026-08-25** — `anonymous`
 
 </details>
 
@@ -226,4 +226,4 @@ made with ♥ by the community · [website](https://awesome-dotfiles.vercel.app)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
