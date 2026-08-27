@@ -15,7 +15,7 @@
             "last_commit": "2024-06-10T01:37:16Z",
             "owner": "HynDuf",
             "repo": "dotfiles",
-            "stars": 412
+            "stars": 411
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-23T21:24:58Z",
             "owner": "zhaleff",
             "repo": "BlackNode",
-            "stars": 164
+            "stars": 163
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-08-23T21:24:58Z",
             "owner": "zhaleff",
             "repo": "BlackNode",
-            "stars": 164
+            "stars": 163
           }
         },
         {
@@ -123,7 +123,7 @@
             "archived": false,
             "id": 1163194639,
             "language": "QML",
-            "last_commit": "2026-08-26T18:50:09Z",
+            "last_commit": "2026-08-27T07:51:57Z",
             "owner": "na-ive",
             "repo": "nandoroid-shell",
             "stars": 156
@@ -488,9 +488,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:12:36.639Z",
-    "original_repository": "zhaleff/AwesomeDotfiles",
-    "original_repository_id": 1213933186,
+    "last_updated": "2026-08-27T11:30:03.538Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1213933186,
+      "language": "JavaScript",
+      "last_commit": "2026-08-26T02:36:31Z",
+      "owner": "zhaleff",
+      "repo": "AwesomeDotfiles",
+      "stars": 202
+    },
     "original_repository_sha": "572850b47c3930048648d71d3ff64fb380618a11",
     "enhanced_repository": "enhansome/enhansome-AwesomeDotfiles",
     "enhanced_repository_description": null,
