@@ -16,7 +16,8 @@
             "owner": "HynDuf",
             "repo": "dotfiles",
             "stars": 411
-          }
+          },
+          "first_seen": "2026-08-28T06:44:54.067Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "LambBread",
             "repo": "my-dotfiles",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T06:44:54.067Z"
         }
       ],
       "title": "NixOS (2)"
@@ -52,7 +54,8 @@
             "owner": "nickjj",
             "repo": "dotfriedrice",
             "stars": 1320
-          }
+          },
+          "first_seen": "2026-08-28T06:44:54.067Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "Cybersnake223",
             "repo": "Hypr",
             "stars": 462
-          }
+          },
+          "first_seen": "2026-08-28T06:44:54.067Z"
         },
         {
           "node_type": "item",
@@ -78,11 +82,12 @@
             "archived": false,
             "id": 867164576,
             "language": "Shell",
-            "last_commit": "2026-08-27T00:45:30Z",
+            "last_commit": "2026-08-27T18:31:22Z",
             "owner": "cebem1nt",
             "repo": "dotfiles",
             "stars": 287
-          }
+          },
+          "first_seen": "2026-08-28T06:44:54.067Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "zhaleff",
             "repo": "BlackNode",
             "stars": 163
-          }
+          },
+          "first_seen": "2026-08-28T06:44:54.067Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "zhaleff",
             "repo": "BlackNode",
             "stars": 163
-          }
+          },
+          "first_seen": "2026-08-28T06:44:54.067Z"
         },
         {
           "node_type": "item",
@@ -123,11 +130,12 @@
             "archived": false,
             "id": 1163194639,
             "language": "QML",
-            "last_commit": "2026-08-27T07:51:57Z",
+            "last_commit": "2026-08-28T06:01:14Z",
             "owner": "na-ive",
             "repo": "nandoroid-shell",
             "stars": 156
-          }
+          },
+          "first_seen": "2026-08-28T06:44:54.067Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "zhaleff",
             "repo": "hyprcraft",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T06:44:54.067Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "binoymanoj",
             "repo": "dotfiles",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T06:44:54.067Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "NotAShelf",
             "repo": "dotfiles",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T06:44:54.067Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "berthosefin",
             "repo": "dots",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T06:44:54.067Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "AdiKsOnDev",
             "repo": "Monoland",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T06:44:54.067Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "Grey-007",
             "repo": "Hyprmat-dots",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T06:44:54.067Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "Aktyn",
             "repo": "hyprland-setup",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T06:44:54.067Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "ESHAYAT102",
             "repo": "dotfiles",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T06:44:54.067Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "HeroHunterIguess",
             "repo": "HyprBreakcore-Rice",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T06:44:54.067Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "plutonyumm",
             "repo": "lazerbar",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T06:44:54.067Z"
         }
       ],
       "title": "Arch (17)"
@@ -298,7 +316,8 @@
             "owner": "AdhikariKapil",
             "repo": "dotfiles",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T06:44:54.067Z"
         }
       ],
       "title": "EndeavourOS (1)"
@@ -319,7 +338,8 @@
             "owner": "binarylinuxx",
             "repo": "dots",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T06:44:54.067Z"
         }
       ],
       "title": "NixOS (1)"
@@ -340,7 +360,8 @@
             "owner": "michal-pielka",
             "repo": "dotfiles",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T06:44:54.067Z"
         }
       ],
       "title": "Other (1)"
@@ -361,7 +382,8 @@
             "owner": "Jotalea",
             "repo": "i3-dots",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T06:44:54.067Z"
         },
         {
           "node_type": "item",
@@ -376,7 +398,8 @@
             "owner": "sajidbytes",
             "repo": "CLUNUX",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T06:44:54.067Z"
         }
       ],
       "title": "Arch (2)"
@@ -397,7 +420,8 @@
             "owner": "melatonia",
             "repo": "meloworld-dotfiles",
             "stars": 122
-          }
+          },
+          "first_seen": "2026-08-28T06:44:54.067Z"
         }
       ],
       "title": "Arch (1)"
@@ -418,7 +442,8 @@
             "owner": "SpasaevDonut",
             "repo": "ruby_quickshell_rice",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T06:44:54.067Z"
         }
       ],
       "title": "Arch (1)"
@@ -439,7 +464,8 @@
             "owner": "cr1ogen",
             "repo": "cr1odots",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T06:44:54.067Z"
         }
       ],
       "title": "Debian (1)"
@@ -459,8 +485,9 @@
             "last_commit": "2026-07-30T12:07:09Z",
             "owner": "ORFLEM",
             "repo": "just_enough_shell",
-            "stars": 30
-          }
+            "stars": 31
+          },
+          "first_seen": "2026-08-28T06:44:54.067Z"
         }
       ],
       "title": "NixOS (1)"
@@ -481,14 +508,15 @@
             "owner": "szorfein",
             "repo": "dotfiles",
             "stars": 812
-          }
+          },
+          "first_seen": "2026-08-28T06:44:54.067Z"
         }
       ],
       "title": "Void (1)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:30:03.538Z",
+    "last_updated": "2026-08-28T06:44:54.067Z",
     "original_repository_info": {
       "archived": false,
       "id": 1213933186,
@@ -496,7 +524,7 @@
       "last_commit": "2026-08-26T02:36:31Z",
       "owner": "zhaleff",
       "repo": "AwesomeDotfiles",
-      "stars": 202
+      "stars": 201
     },
     "original_repository_sha": "572850b47c3930048648d71d3ff64fb380618a11",
     "enhanced_repository": "enhansome/enhansome-AwesomeDotfiles",
