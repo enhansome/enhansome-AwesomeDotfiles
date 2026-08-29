@@ -10,12 +10,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Aesthetic Dotfiles for my Arch Linux rabbit hole 🐇",
+            "homepage": null,
             "id": 497632679,
             "language": "CSS",
+            "license": "GPL-3.0",
             "last_commit": "2024-06-10T01:37:16Z",
+            "open_issues": 0,
             "owner": "HynDuf",
             "repo": "dotfiles",
-            "stars": 411
+            "stars": 411,
+            "topics": [
+              "arch-linux",
+              "bspwm",
+              "dotfiles",
+              "linux",
+              "neovim",
+              "obsidian",
+              "polybar",
+              "rice",
+              "rofi"
+            ]
           },
           "first_seen": "2026-08-28T06:44:54.067Z"
         },
@@ -26,12 +41,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dotfiles for a riced NixOS bspwm setup",
+            "homepage": null,
             "id": 1117217637,
             "language": "Nix",
-            "last_commit": "2026-08-26T20:26:01Z",
+            "license": "0BSD",
+            "last_commit": "2026-08-29T01:53:54Z",
+            "open_issues": 0,
             "owner": "LambBread",
             "repo": "my-dotfiles",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "bspwm",
+              "bspwm-config",
+              "dotfiles",
+              "linux-rice",
+              "nixos-config",
+              "xfce"
+            ]
           },
           "first_seen": "2026-08-28T06:44:54.067Z"
         }
@@ -48,12 +75,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Set up a developer friendly niri / Arch Linux system in minutes. Also supports WSL 2, Debian, Ubuntu and macOS for CLI tools!",
+            "homepage": "https://nickjanetakis.com/blog/the-tools-i-use",
             "id": 162295765,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-24T10:47:24Z",
+            "open_issues": 1,
             "owner": "nickjj",
             "repo": "dotfriedrice",
-            "stars": 1320
+            "stars": 1321,
+            "topics": [
+              "arch",
+              "dotfiles",
+              "linux",
+              "neovim",
+              "niri",
+              "terminal",
+              "tmux",
+              "wsl2",
+              "zsh"
+            ]
           },
           "first_seen": "2026-08-28T06:44:54.067Z"
         },
@@ -64,12 +106,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vicious Viper Dotfiles",
+            "homepage": "https://cybersnake223.github.io/vicious-viper",
             "id": 685795379,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-08T16:24:57Z",
+            "open_issues": 0,
             "owner": "Cybersnake223",
             "repo": "Hypr",
-            "stars": 462
+            "stars": 462,
+            "topics": [
+              "anyrun",
+              "auto-cpufreq",
+              "bash",
+              "bat",
+              "btop",
+              "cava",
+              "cmus",
+              "foot",
+              "hyprland",
+              "mako",
+              "mpv",
+              "neovim",
+              "nvim-configs",
+              "quickshell",
+              "waybar",
+              "yazi",
+              "zen-browser",
+              "zsh"
+            ]
           },
           "first_seen": "2026-08-28T06:44:54.067Z"
         },
@@ -80,12 +146,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "my dots for mango and hyprland ",
+            "homepage": null,
             "id": 867164576,
             "language": "Shell",
-            "last_commit": "2026-08-27T18:31:22Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T15:16:59Z",
+            "open_issues": 0,
             "owner": "cebem1nt",
             "repo": "dotfiles",
-            "stars": 287
+            "stars": 288,
+            "topics": [
+              "dotfiles",
+              "hyprland",
+              "rofi",
+              "swaync",
+              "waybar"
+            ]
           },
           "first_seen": "2026-08-28T06:44:54.067Z"
         },
@@ -96,12 +173,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "// ------ Your home in the terminal. Simple, clean, yours. ",
+            "homepage": null,
             "id": 1114105225,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-23T21:24:58Z",
+            "open_issues": 4,
             "owner": "zhaleff",
             "repo": "BlackNode",
-            "stars": 163
+            "stars": 163,
+            "topics": [
+              "archlinux-dotfiles",
+              "btop",
+              "configs",
+              "dotfiles",
+              "dots",
+              "hyprdots",
+              "hyprdots-hyprland",
+              "hyprland",
+              "kitty",
+              "linux-dotfiles",
+              "rice",
+              "ricing",
+              "rofi",
+              "unixporn",
+              "wallust",
+              "waybar",
+              "wlogout"
+            ]
           },
           "first_seen": "2026-08-28T06:44:54.067Z"
         },
@@ -112,12 +212,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "// ------ Your home in the terminal. Simple, clean, yours. ",
+            "homepage": null,
             "id": 1114105225,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-23T21:24:58Z",
+            "open_issues": 4,
             "owner": "zhaleff",
             "repo": "BlackNode",
-            "stars": 163
+            "stars": 163,
+            "topics": [
+              "archlinux-dotfiles",
+              "btop",
+              "configs",
+              "dotfiles",
+              "dots",
+              "hyprdots",
+              "hyprdots-hyprland",
+              "hyprland",
+              "kitty",
+              "linux-dotfiles",
+              "rice",
+              "ricing",
+              "rofi",
+              "unixporn",
+              "wallust",
+              "waybar",
+              "wlogout"
+            ]
           },
           "first_seen": "2026-08-28T06:44:54.067Z"
         },
@@ -128,12 +251,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An opinionated Quickshell-based Hyprland shell inspired by Android custom ROMs.",
+            "homepage": "https://nandoroid.naive.my.id/",
             "id": 1163194639,
             "language": "QML",
-            "last_commit": "2026-08-28T06:01:14Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-28T17:02:27Z",
+            "open_issues": 0,
             "owner": "na-ive",
             "repo": "nandoroid-shell",
-            "stars": 156
+            "stars": 158,
+            "topics": [
+              "hyprland",
+              "linux",
+              "material-design",
+              "nandoroid",
+              "quickshell",
+              "rice"
+            ]
           },
           "first_seen": "2026-08-28T06:44:54.067Z"
         },
@@ -144,12 +279,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HyprCraft /***--A beautiful development environment--***/",
+            "homepage": null,
             "id": 1026748094,
             "language": "SCSS",
+            "license": "MIT",
             "last_commit": "2026-05-05T02:45:44Z",
+            "open_issues": 1,
             "owner": "zhaleff",
             "repo": "hyprcraft",
-            "stars": 121
+            "stars": 121,
+            "topics": [
+              "archlinux",
+              "aweso",
+              "dotfiles",
+              "hyprdots",
+              "hyprland",
+              "linux",
+              "static"
+            ]
           },
           "first_seen": "2026-08-28T06:44:54.067Z"
         },
@@ -160,12 +308,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "dotfiles repo - Archlinux + Hyprland ",
+            "homepage": null,
             "id": 1048158764,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-15T11:12:59Z",
+            "open_issues": 0,
             "owner": "binoymanoj",
             "repo": "dotfiles",
-            "stars": 66
+            "stars": 67,
+            "topics": [
+              "archlinux",
+              "archlinux-dotfiles",
+              "dotfiles",
+              "hypr-dots",
+              "hyprland",
+              "hyprland-config",
+              "hyprland-dotfiles",
+              "neovim",
+              "neovim-dotfiles",
+              "tmux",
+              "tmux-configs"
+            ]
           },
           "first_seen": "2026-08-28T06:44:54.067Z"
         },
@@ -176,12 +341,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A repository for (mostly) everything that starts with a dot on my Arch Linux systems.",
+            "homepage": null,
             "id": 534394616,
             "language": "Nix",
+            "license": null,
             "last_commit": "2023-04-13T21:37:21Z",
+            "open_issues": 0,
             "owner": "NotAShelf",
             "repo": "dotfiles",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "cli",
+              "design",
+              "dotfiles",
+              "hyprland",
+              "linux",
+              "rice",
+              "ricing",
+              "rofi",
+              "unix",
+              "zsh"
+            ]
           },
           "first_seen": "2026-08-28T06:44:54.067Z"
         },
@@ -192,12 +373,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 676438222,
             "language": "Lua",
+            "license": null,
             "last_commit": "2026-08-25T02:55:48Z",
+            "open_issues": 0,
             "owner": "berthosefin",
             "repo": "dots",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:44:54.067Z"
         },
@@ -208,12 +394,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Monochromatic themed Hyprland rice with Quickshell widgets.",
+            "homepage": null,
             "id": 1174317390,
             "language": "QML",
+            "license": null,
             "last_commit": "2026-08-17T08:22:01Z",
+            "open_issues": 0,
             "owner": "AdiKsOnDev",
             "repo": "Monoland",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:44:54.067Z"
         },
@@ -224,12 +415,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My hyprland dotfiles",
+            "homepage": null,
             "id": 1127072542,
             "language": "CSS",
+            "license": null,
             "last_commit": "2026-05-17T08:21:38Z",
+            "open_issues": 0,
             "owner": "Grey-007",
             "repo": "Hyprmat-dots",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "hyprland",
+              "hyprland-arch",
+              "hyprland-config",
+              "hyprland-dotfiles",
+              "hyprland-rice",
+              "matugen",
+              "rofi",
+              "rofi-theme",
+              "waybar",
+              "waybar-themes"
+            ]
           },
           "first_seen": "2026-08-28T06:44:54.067Z"
         },
@@ -240,12 +447,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My setup hyprland",
+            "homepage": null,
             "id": 1060687593,
             "language": "QML",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-23T09:35:16Z",
+            "open_issues": 0,
             "owner": "Aktyn",
             "repo": "hyprland-setup",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:44:54.067Z"
         },
@@ -256,12 +468,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "esyt-dots: dotfiles for Omarchy",
+            "homepage": null,
             "id": 1092311957,
             "language": "QML",
+            "license": null,
             "last_commit": "2026-08-25T16:00:00Z",
+            "open_issues": 0,
             "owner": "ESHAYAT102",
             "repo": "dotfiles",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:44:54.067Z"
         },
@@ -272,12 +489,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Hyprland rice based around the Breakcore aesthetic (both the music and art) ",
+            "homepage": null,
             "id": 1091982243,
             "language": "Shell",
+            "license": null,
             "last_commit": "2026-07-21T00:21:07Z",
+            "open_issues": 0,
             "owner": "HeroHunterIguess",
             "repo": "HyprBreakcore-Rice",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:44:54.067Z"
         },
@@ -288,12 +510,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Quickshell config based on the top bar from osu!lazer",
+            "homepage": null,
             "id": 1250787036,
             "language": "QML",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-17T01:51:49Z",
+            "open_issues": 0,
             "owner": "plutonyumm",
             "repo": "lazerbar",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "dotfiles",
+              "hyprland",
+              "osugame",
+              "osulazer",
+              "quickshell",
+              "rice"
+            ]
           },
           "first_seen": "2026-08-28T06:44:54.067Z"
         }
@@ -310,12 +544,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My full hyperland setup.",
+            "homepage": null,
             "id": 1252756057,
             "language": "Lua",
+            "license": null,
             "last_commit": "2026-07-18T12:51:44Z",
+            "open_issues": 0,
             "owner": "AdhikariKapil",
             "repo": "dotfiles",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:44:54.067Z"
         }
@@ -332,12 +571,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "hyprland dots",
+            "homepage": "https://bshell.zapzig.org",
             "id": 1033424095,
             "language": "QML",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-17T15:51:12Z",
+            "open_issues": 0,
             "owner": "binarylinuxx",
             "repo": "dots",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:44:54.067Z"
         }
@@ -354,12 +598,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "handcrafted configs for questionable efficiency",
+            "homepage": null,
             "id": 1018289432,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-07-27T15:59:11Z",
+            "open_issues": 2,
             "owner": "michal-pielka",
             "repo": "dotfiles",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:44:54.067Z"
         }
@@ -376,12 +625,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1107984512,
             "language": "Shell",
+            "license": null,
             "last_commit": "2025-12-02T00:15:11Z",
+            "open_issues": 0,
             "owner": "Jotalea",
             "repo": "i3-dots",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:44:54.067Z"
         },
@@ -392,12 +646,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gruvbox CLU rice TRON-LEGACY",
+            "homepage": null,
             "id": 1255240039,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-07-14T11:31:00Z",
+            "open_issues": 0,
             "owner": "sajidbytes",
             "repo": "CLUNUX",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:44:54.067Z"
         }
@@ -414,12 +673,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My hyprland and quickshell rice heavily influenced by crylia theme!",
+            "homepage": null,
             "id": 1187258892,
             "language": "QML",
+            "license": "MIT",
             "last_commit": "2026-08-16T15:54:29Z",
+            "open_issues": 0,
             "owner": "melatonia",
             "repo": "meloworld-dotfiles",
-            "stars": 122
+            "stars": 122,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:44:54.067Z"
         }
@@ -436,12 +700,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A vibecoded rice trying to replicate worron's ruby dotfiles",
+            "homepage": null,
             "id": 1212715306,
             "language": "QML",
+            "license": null,
             "last_commit": "2026-07-13T21:53:16Z",
+            "open_issues": 0,
             "owner": "SpasaevDonut",
             "repo": "ruby_quickshell_rice",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:44:54.067Z"
         }
@@ -458,12 +727,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "my files",
+            "homepage": null,
             "id": 393763267,
             "language": "Lua",
+            "license": null,
             "last_commit": "2026-08-24T15:44:26Z",
+            "open_issues": 0,
             "owner": "cr1ogen",
             "repo": "cr1odots",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:44:54.067Z"
         }
@@ -480,12 +754,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JES - fast & mininal desktop shell for Wayland WMs",
+            "homepage": null,
             "id": 1086327762,
             "language": "QML",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-30T12:07:09Z",
+            "open_issues": 0,
             "owner": "ORFLEM",
             "repo": "just_enough_shell",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "desktop-shell",
+              "dotfiles",
+              "driftwm",
+              "hyprland-dotfiles",
+              "linux",
+              "niri-dotfiles",
+              "nixos",
+              "quickshell",
+              "rice",
+              "sway-config"
+            ]
           },
           "first_seen": "2026-08-28T06:44:54.067Z"
         }
@@ -502,12 +792,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dotfiles of my last wm, managed by GNU stow.",
+            "homepage": null,
             "id": 58390571,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-06-03T06:43:39Z",
+            "open_issues": 0,
             "owner": "szorfein",
             "repo": "dotfiles",
-            "stars": 812
+            "stars": 812,
+            "topics": [
+              "awesome",
+              "dotfiles",
+              "eww",
+              "foot",
+              "gnupg",
+              "kitty",
+              "linux",
+              "neovim",
+              "otter-launcher",
+              "reaver",
+              "rice",
+              "ricing",
+              "stow",
+              "sway",
+              "swayfx",
+              "tmux",
+              "tor",
+              "vie",
+              "yazi",
+              "zsh"
+            ]
           },
           "first_seen": "2026-08-28T06:44:54.067Z"
         }
@@ -516,15 +832,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:44:54.067Z",
+    "last_updated": "2026-08-29T04:00:27.810Z",
     "original_repository_info": {
       "archived": false,
+      "description": " A curated index of Linux desktop configurations — submitted and browsed by the community.",
+      "homepage": "https://awesome-dotfiles.vercel.app",
       "id": 1213933186,
       "language": "JavaScript",
+      "license": null,
       "last_commit": "2026-08-26T02:36:31Z",
+      "open_issues": 0,
       "owner": "zhaleff",
       "repo": "AwesomeDotfiles",
-      "stars": 201
+      "stars": 201,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "dotfiles",
+        "dotfiles-linux",
+        "dotfilesl-list",
+        "ricing",
+        "ricing-list",
+        "unixporn"
+      ]
     },
     "original_repository_sha": "572850b47c3930048648d71d3ff64fb380618a11",
     "enhanced_repository": "enhansome/enhansome-AwesomeDotfiles",
