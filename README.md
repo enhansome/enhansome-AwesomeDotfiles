@@ -56,9 +56,9 @@
   A minimal, keyboard-driven Hyprland dotfiles setup for Arch Linux. Laptop-first. Script-heavy. Zero bloat.
 * **[cebem1nt/dotfiles](https://github.com/cebem1nt/dotfiles) ⭐ 288 | 🐛 0 | 🌐 Shell | 📅 2026-08-28** — `cebem1nt`\
   Modular, well documented hyprland dotfiles built with classic rofi, swaync and waybar. Also incudes a light & dark theme, a collection of wallpapers and scripts.
-* **[zhaleff/BlackNode](https://github.com/zhaleff/BlackNode) ⭐ 163 | 🐛 4 | 🌐 Shell | 📅 2026-08-23** — `Zhaleff`\
+* **[zhaleff/BlackNode](https://github.com/zhaleff/BlackNode) ⭐ 163 | 🐛 3 | 🌐 Shell | 📅 2026-08-29** — `Zhaleff`\
   BlackNode a simple, basic dotfile for hyprland, hyprland configurations, nvim, etc
-* **[zhaleff/BlackNode](https://github.com/zhaleff/BlackNode) ⭐ 163 | 🐛 4 | 🌐 Shell | 📅 2026-08-23** — `zhaleff`\
+* **[zhaleff/BlackNode](https://github.com/zhaleff/BlackNode) ⭐ 163 | 🐛 3 | 🌐 Shell | 📅 2026-08-29** — `zhaleff`\
   A classic dotfile built with the traditional dotfile staples of the past, featuring dynamic colors and a touch of Material You 3.
 * **[na-ive/nandoroid-shell](https://github.com/na-ive/nandoroid-shell) ⭐ 158 | 🐛 0 | 🌐 QML | 📅 2026-08-28** — `na-ive`\
   quickshell based hyprland shell, Android custom ROM inspired.

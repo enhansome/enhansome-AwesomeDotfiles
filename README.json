@@ -178,8 +178,8 @@
             "id": 1114105225,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-08-23T21:24:58Z",
-            "open_issues": 4,
+            "last_commit": "2026-08-29T04:18:17Z",
+            "open_issues": 3,
             "owner": "zhaleff",
             "repo": "BlackNode",
             "stars": 163,
@@ -217,8 +217,8 @@
             "id": 1114105225,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-08-23T21:24:58Z",
-            "open_issues": 4,
+            "last_commit": "2026-08-29T04:18:17Z",
+            "open_issues": 3,
             "owner": "zhaleff",
             "repo": "BlackNode",
             "stars": 163,
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:00:27.810Z",
+    "last_updated": "2026-08-29T04:49:59.191Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated index of Linux desktop configurations — submitted and browsed by the community.",
