@@ -46,7 +46,7 @@
             "id": 1117217637,
             "language": "Nix",
             "license": "0BSD",
-            "last_commit": "2026-08-29T01:53:54Z",
+            "last_commit": "2026-08-29T21:16:27Z",
             "open_issues": 0,
             "owner": "LambBread",
             "repo": "my-dotfiles",
@@ -317,7 +317,7 @@
             "open_issues": 0,
             "owner": "binoymanoj",
             "repo": "dotfiles",
-            "stars": 67,
+            "stars": 69,
             "topics": [
               "archlinux",
               "archlinux-dotfiles",
@@ -473,7 +473,7 @@
             "id": 1092311957,
             "language": "QML",
             "license": null,
-            "last_commit": "2026-08-25T16:00:00Z",
+            "last_commit": "2026-08-29T10:31:31Z",
             "open_issues": 0,
             "owner": "ESHAYAT102",
             "repo": "dotfiles",
@@ -603,7 +603,7 @@
             "id": 1018289432,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-07-27T15:59:11Z",
+            "last_commit": "2026-08-29T14:33:11Z",
             "open_issues": 2,
             "owner": "michal-pielka",
             "repo": "dotfiles",
@@ -732,7 +732,7 @@
             "id": 393763267,
             "language": "Lua",
             "license": null,
-            "last_commit": "2026-08-24T15:44:26Z",
+            "last_commit": "2026-08-30T00:48:20Z",
             "open_issues": 0,
             "owner": "cr1ogen",
             "repo": "cr1odots",
@@ -763,7 +763,7 @@
             "open_issues": 0,
             "owner": "ORFLEM",
             "repo": "just_enough_shell",
-            "stars": 31,
+            "stars": 30,
             "topics": [
               "desktop-shell",
               "dotfiles",
@@ -832,7 +832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:49:59.191Z",
+    "last_updated": "2026-08-30T01:00:59.555Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated index of Linux desktop configurations — submitted and browsed by the community.",

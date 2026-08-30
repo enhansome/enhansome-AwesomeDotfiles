@@ -64,7 +64,7 @@
   quickshell based hyprland shell, Android custom ROM inspired.
 * **[zhaleff/hyprcraft](https://github.com/zhaleff/hyprcraft) ⭐ 121 | 🐛 1 | 🌐 SCSS | 📅 2026-05-05** — `Zhaleff`\
   Dotfile minimal yet beautiful, simple yet fast, so you can build your own dotfile
-* **[binoymanoj/dotfiles](https://github.com/binoymanoj/dotfiles) ⭐ 67 | 🐛 0 | 🌐 Shell | 📅 2026-08-15** — `anonymous`
+* **[binoymanoj/dotfiles](https://github.com/binoymanoj/dotfiles) ⭐ 69 | 🐛 0 | 🌐 Shell | 📅 2026-08-15** — `anonymous`
 * **[NotAShelf/dotfiles](https://github.com/NotAShelf/dotfiles) ⚠️ Archived** — `NotAshelf`\
   This is where I periodically throw my configuration files. You might be here for something specific, in that case I recommend that you scroll below for the repository map and find what you are looking for
 * **[berthosefin/dots](https://github.com/berthosefin/dots) ⭐ 20 | 🐛 0 | 🌐 Lua | 📅 2026-08-25** — `berthosefin`
@@ -76,7 +76,7 @@
 * **[Aktyn/hyprland-setup](https://github.com/Aktyn/hyprland-setup) ⭐ 8 | 🐛 0 | 🌐 QML | 📅 2026-08-23** — `Aktyn`\
   It's a comprehensive, feature-rich Hyprland configuration with Quickshell integration, custom SDDM theme, and carefully selected applications for an optimal desktop experience.
   This project is made for personal use although I'm happy to implement additional features upon request.
-* **[ESHAYAT102/dotfiles](https://github.com/ESHAYAT102/dotfiles) ⭐ 8 | 🐛 0 | 🌐 QML | 📅 2026-08-25** — `Eshayat Al-Wasiu`\
+* **[ESHAYAT102/dotfiles](https://github.com/ESHAYAT102/dotfiles) ⭐ 8 | 🐛 0 | 🌐 QML | 📅 2026-08-29** — `Eshayat Al-Wasiu`\
   Minimal Omarchy rice
 * **[HeroHunterIguess/Darkblue-breakcore-Hyprland](https://github.com/HeroHunterIguess/Darkblue-breakcore-Hyprland/tree/main) ⭐ 3 | 🐛 0 | 🌐 Shell | 📅 2026-07-21** — `raylee`\
   Breakcore / alt future styled rice
@@ -114,7 +114,7 @@
 <details>
 <summary><strong>Other</strong> (1)</summary>
 
-* **[michal-pielka/dotfiles](https://github.com/michal-pielka/dotfiles) ⭐ 2 | 🐛 2 | 🌐 Lua | 📅 2026-07-27** — `michalpielka`\
+* **[michal-pielka/dotfiles](https://github.com/michal-pielka/dotfiles) ⭐ 2 | 🐛 2 | 🌐 Lua | 📅 2026-08-29** — `michalpielka`\
   Minimal terminal focused Hyprland setup.
 
 </details>
@@ -168,7 +168,7 @@ dotfiles not available.
 <details>
 <summary><strong>Debian</strong> (1)</summary>
 
-* **[cr1ogen/cr1odots](https://github.com/cr1ogen/cr1odots) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2026-08-24** — `cr1ogen`\
+* **[cr1ogen/cr1odots](https://github.com/cr1ogen/cr1odots) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2026-08-30** — `cr1ogen`\
   Richfetch on Kitty, mpv player and cava.
 
 </details>
@@ -178,7 +178,7 @@ dotfiles not available.
 <details>
 <summary><strong>NixOS</strong> (1)</summary>
 
-* **[ORFLEM/just\_enough\_shell](https://github.com/ORFLEM/just_enough_shell/tree/main) ⭐ 31 | 🐛 0 | 🌐 QML | 📅 2026-07-30** — `_ORFLEM_`\
+* **[ORFLEM/just\_enough\_shell](https://github.com/ORFLEM/just_enough_shell/tree/main) ⭐ 30 | 🐛 0 | 🌐 QML | 📅 2026-07-30** — `_ORFLEM_`\
   Built for everyday practicality, not trends.
 
 Designed fro Desktop PC
@@ -226,4 +226,4 @@ made with ♥ by the community · [website](https://awesome-dotfiles.vercel.app)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
