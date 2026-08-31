@@ -41,7 +41,7 @@
 
 * **[HynDuf/dotfiles](https://github.com/HynDuf/dotfiles) ⭐ 411 | 🐛 0 | 🌐 CSS | 📅 2024-06-10** — `HynDuf`\
   Beautiful, lovely, and warm dotfile, the best dotfile you can find—beautiful, clean, and customizable. Use it now!
-* **[LambBread/my-dotfiles](https://github.com/LambBread/my-dotfiles) ⭐ 1 | 🐛 0 | 🌐 Nix | 📅 2026-08-29** — `anonymous`
+* **[LambBread/my-dotfiles](https://github.com/LambBread/my-dotfiles) ⭐ 1 | 🐛 0 | 🌐 Nix | 📅 2026-08-30** — `anonymous`
 
 </details>
 
@@ -60,7 +60,7 @@
   BlackNode a simple, basic dotfile for hyprland, hyprland configurations, nvim, etc
 * **[zhaleff/BlackNode](https://github.com/zhaleff/BlackNode) ⭐ 163 | 🐛 3 | 🌐 Shell | 📅 2026-08-29** — `zhaleff`\
   A classic dotfile built with the traditional dotfile staples of the past, featuring dynamic colors and a touch of Material You 3.
-* **[na-ive/nandoroid-shell](https://github.com/na-ive/nandoroid-shell) ⭐ 158 | 🐛 0 | 🌐 QML | 📅 2026-08-28** — `na-ive`\
+* **[na-ive/nandoroid-shell](https://github.com/na-ive/nandoroid-shell) ⭐ 158 | 🐛 0 | 🌐 QML | 📅 2026-08-30** — `na-ive`\
   quickshell based hyprland shell, Android custom ROM inspired.
 * **[zhaleff/hyprcraft](https://github.com/zhaleff/hyprcraft) ⭐ 121 | 🐛 1 | 🌐 SCSS | 📅 2026-05-05** — `Zhaleff`\
   Dotfile minimal yet beautiful, simple yet fast, so you can build your own dotfile
@@ -76,7 +76,7 @@
 * **[Aktyn/hyprland-setup](https://github.com/Aktyn/hyprland-setup) ⭐ 8 | 🐛 0 | 🌐 QML | 📅 2026-08-23** — `Aktyn`\
   It's a comprehensive, feature-rich Hyprland configuration with Quickshell integration, custom SDDM theme, and carefully selected applications for an optimal desktop experience.
   This project is made for personal use although I'm happy to implement additional features upon request.
-* **[ESHAYAT102/dotfiles](https://github.com/ESHAYAT102/dotfiles) ⭐ 8 | 🐛 0 | 🌐 QML | 📅 2026-08-29** — `Eshayat Al-Wasiu`\
+* **[ESHAYAT102/dotfiles](https://github.com/ESHAYAT102/dotfiles) ⭐ 8 | 🐛 0 | 🌐 QML | 📅 2026-08-30** — `Eshayat Al-Wasiu`\
   Minimal Omarchy rice
 * **[HeroHunterIguess/Darkblue-breakcore-Hyprland](https://github.com/HeroHunterIguess/Darkblue-breakcore-Hyprland/tree/main) ⭐ 3 | 🐛 0 | 🌐 Shell | 📅 2026-07-21** — `raylee`\
   Breakcore / alt future styled rice
@@ -114,7 +114,7 @@
 <details>
 <summary><strong>Other</strong> (1)</summary>
 
-* **[michal-pielka/dotfiles](https://github.com/michal-pielka/dotfiles) ⭐ 2 | 🐛 2 | 🌐 Lua | 📅 2026-08-29** — `michalpielka`\
+* **[michal-pielka/dotfiles](https://github.com/michal-pielka/dotfiles) ⭐ 2 | 🐛 2 | 🌐 Lua | 📅 2026-08-30** — `michalpielka`\
   Minimal terminal focused Hyprland setup.
 
 </details>
@@ -168,7 +168,7 @@ dotfiles not available.
 <details>
 <summary><strong>Debian</strong> (1)</summary>
 
-* **[cr1ogen/cr1odots](https://github.com/cr1ogen/cr1odots) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2026-08-30** — `cr1ogen`\
+* **[cr1ogen/cr1odots](https://github.com/cr1ogen/cr1odots) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2026-08-31** — `cr1ogen`\
   Richfetch on Kitty, mpv player and cava.
 
 </details>
@@ -202,7 +202,7 @@ JES have a simple plugin system: just drop a folder with QML, import in shell.qm
 <details>
 <summary><strong>Debian</strong> (1)</summary>
 
-* **[LambBread/my-dotfiles](https://github.com/LambBread/my-dotfiles) ⭐ 1 | 🐛 0 | 🌐 Nix | 📅 2026-08-29** — `anonymous`
+* **[LambBread/my-dotfiles](https://github.com/LambBread/my-dotfiles) ⭐ 1 | 🐛 0 | 🌐 Nix | 📅 2026-08-30** — `anonymous`
 
 </details>
 
@@ -226,4 +226,4 @@ made with ♥ by the community · [website](https://awesome-dotfiles.vercel.app)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
