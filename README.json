@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "HynDuf",
             "repo": "dotfiles",
-            "stars": 411,
+            "stars": 412,
             "topics": [
               "arch-linux",
               "bspwm",
@@ -46,7 +46,7 @@
             "id": 1117217637,
             "language": "Nix",
             "license": "0BSD",
-            "last_commit": "2026-08-30T23:10:22Z",
+            "last_commit": "2026-09-01T00:56:02Z",
             "open_issues": 0,
             "owner": "LambBread",
             "repo": "my-dotfiles",
@@ -56,8 +56,9 @@
               "bspwm-config",
               "dotfiles",
               "linux-rice",
-              "nixos-config",
-              "xfce"
+              "nix",
+              "nixos",
+              "nixos-config"
             ]
           },
           "first_seen": "2026-08-28T06:44:54.067Z"
@@ -84,7 +85,7 @@
             "open_issues": 1,
             "owner": "nickjj",
             "repo": "dotfriedrice",
-            "stars": 1321,
+            "stars": 1323,
             "topics": [
               "arch",
               "dotfiles",
@@ -155,7 +156,7 @@
             "open_issues": 0,
             "owner": "cebem1nt",
             "repo": "dotfiles",
-            "stars": 288,
+            "stars": 289,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -256,7 +257,7 @@
             "id": 1163194639,
             "language": "QML",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-30T10:32:00Z",
+            "last_commit": "2026-08-31T10:46:04Z",
             "open_issues": 0,
             "owner": "na-ive",
             "repo": "nandoroid-shell",
@@ -288,7 +289,7 @@
             "open_issues": 1,
             "owner": "zhaleff",
             "repo": "hyprcraft",
-            "stars": 121,
+            "stars": 120,
             "topics": [
               "archlinux",
               "aweso",
@@ -732,7 +733,7 @@
             "id": 393763267,
             "language": "Lua",
             "license": null,
-            "last_commit": "2026-08-31T00:20:09Z",
+            "last_commit": "2026-08-31T03:49:02Z",
             "open_issues": 0,
             "owner": "cr1ogen",
             "repo": "cr1odots",
@@ -763,7 +764,7 @@
             "open_issues": 0,
             "owner": "ORFLEM",
             "repo": "just_enough_shell",
-            "stars": 30,
+            "stars": 31,
             "topics": [
               "desktop-shell",
               "dotfiles",
@@ -832,7 +833,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T01:04:22.199Z",
+    "last_updated": "2026-09-01T01:36:51.306Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated index of Linux desktop configurations — submitted and browsed by the community.",
