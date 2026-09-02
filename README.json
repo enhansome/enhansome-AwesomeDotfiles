@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "HynDuf",
             "repo": "dotfiles",
-            "stars": 412,
+            "stars": 413,
             "topics": [
               "arch-linux",
               "bspwm",
@@ -46,7 +46,7 @@
             "id": 1117217637,
             "language": "Nix",
             "license": "0BSD",
-            "last_commit": "2026-09-01T00:56:02Z",
+            "last_commit": "2026-09-01T20:47:56Z",
             "open_issues": 0,
             "owner": "LambBread",
             "repo": "my-dotfiles",
@@ -116,7 +116,7 @@
             "open_issues": 0,
             "owner": "Cybersnake223",
             "repo": "Hypr",
-            "stars": 462,
+            "stars": 463,
             "topics": [
               "anyrun",
               "auto-cpufreq",
@@ -152,7 +152,7 @@
             "id": 867164576,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-08-28T15:16:59Z",
+            "last_commit": "2026-09-01T21:42:49Z",
             "open_issues": 0,
             "owner": "cebem1nt",
             "repo": "dotfiles",
@@ -183,7 +183,7 @@
             "open_issues": 3,
             "owner": "zhaleff",
             "repo": "BlackNode",
-            "stars": 163,
+            "stars": 164,
             "topics": [
               "archlinux-dotfiles",
               "btop",
@@ -222,7 +222,7 @@
             "open_issues": 3,
             "owner": "zhaleff",
             "repo": "BlackNode",
-            "stars": 163,
+            "stars": 164,
             "topics": [
               "archlinux-dotfiles",
               "btop",
@@ -261,7 +261,7 @@
             "open_issues": 0,
             "owner": "na-ive",
             "repo": "nandoroid-shell",
-            "stars": 158,
+            "stars": 159,
             "topics": [
               "hyprland",
               "linux",
@@ -318,7 +318,7 @@
             "open_issues": 0,
             "owner": "binoymanoj",
             "repo": "dotfiles",
-            "stars": 69,
+            "stars": 70,
             "topics": [
               "archlinux",
               "archlinux-dotfiles",
@@ -474,7 +474,7 @@
             "id": 1092311957,
             "language": "QML",
             "license": null,
-            "last_commit": "2026-08-30T20:20:05Z",
+            "last_commit": "2026-09-01T16:17:24Z",
             "open_issues": 0,
             "owner": "ESHAYAT102",
             "repo": "dotfiles",
@@ -760,7 +760,7 @@
             "id": 1086327762,
             "language": "QML",
             "license": "GPL-3.0",
-            "last_commit": "2026-07-30T12:07:09Z",
+            "last_commit": "2026-09-01T18:43:11Z",
             "open_issues": 0,
             "owner": "ORFLEM",
             "repo": "just_enough_shell",
@@ -833,7 +833,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T01:36:51.306Z",
+    "last_updated": "2026-09-02T00:47:59.484Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated index of Linux desktop configurations — submitted and browsed by the community.",
