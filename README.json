@@ -46,7 +46,7 @@
             "id": 1117217637,
             "language": "Nix",
             "license": "0BSD",
-            "last_commit": "2026-09-01T20:47:56Z",
+            "last_commit": "2026-09-02T02:13:35Z",
             "open_issues": 0,
             "owner": "LambBread",
             "repo": "my-dotfiles",
@@ -85,7 +85,7 @@
             "open_issues": 1,
             "owner": "nickjj",
             "repo": "dotfriedrice",
-            "stars": 1323,
+            "stars": 1325,
             "topics": [
               "arch",
               "dotfiles",
@@ -257,11 +257,11 @@
             "id": 1163194639,
             "language": "QML",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-31T10:46:04Z",
+            "last_commit": "2026-09-02T09:44:16Z",
             "open_issues": 0,
             "owner": "na-ive",
             "repo": "nandoroid-shell",
-            "stars": 159,
+            "stars": 160,
             "topics": [
               "hyprland",
               "linux",
@@ -318,7 +318,7 @@
             "open_issues": 0,
             "owner": "binoymanoj",
             "repo": "dotfiles",
-            "stars": 70,
+            "stars": 71,
             "topics": [
               "archlinux",
               "archlinux-dotfiles",
@@ -760,7 +760,7 @@
             "id": 1086327762,
             "language": "QML",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-01T18:43:11Z",
+            "last_commit": "2026-09-02T17:39:17Z",
             "open_issues": 0,
             "owner": "ORFLEM",
             "repo": "just_enough_shell",
@@ -833,7 +833,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T00:47:59.484Z",
+    "last_updated": "2026-09-03T00:55:56.916Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated index of Linux desktop configurations — submitted and browsed by the community.",
