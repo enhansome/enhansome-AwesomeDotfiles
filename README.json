@@ -46,7 +46,7 @@
             "id": 1117217637,
             "language": "Nix",
             "license": "0BSD",
-            "last_commit": "2026-09-02T02:13:35Z",
+            "last_commit": "2026-09-03T22:05:48Z",
             "open_issues": 0,
             "owner": "LambBread",
             "repo": "my-dotfiles",
@@ -85,7 +85,7 @@
             "open_issues": 1,
             "owner": "nickjj",
             "repo": "dotfriedrice",
-            "stars": 1325,
+            "stars": 1328,
             "topics": [
               "arch",
               "dotfiles",
@@ -116,7 +116,7 @@
             "open_issues": 0,
             "owner": "Cybersnake223",
             "repo": "Hypr",
-            "stars": 463,
+            "stars": 464,
             "topics": [
               "anyrun",
               "auto-cpufreq",
@@ -156,7 +156,7 @@
             "open_issues": 0,
             "owner": "cebem1nt",
             "repo": "dotfiles",
-            "stars": 289,
+            "stars": 288,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -257,11 +257,11 @@
             "id": 1163194639,
             "language": "QML",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-02T09:44:16Z",
+            "last_commit": "2026-09-03T18:18:49Z",
             "open_issues": 0,
             "owner": "na-ive",
             "repo": "nandoroid-shell",
-            "stars": 160,
+            "stars": 163,
             "topics": [
               "hyprland",
               "linux",
@@ -683,7 +683,7 @@
             "open_issues": 0,
             "owner": "melatonia",
             "repo": "meloworld-dotfiles",
-            "stars": 122,
+            "stars": 121,
             "topics": []
           },
           "first_seen": "2026-08-28T06:44:54.067Z"
@@ -833,7 +833,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T00:55:56.916Z",
+    "last_updated": "2026-09-04T00:43:59.500Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated index of Linux desktop configurations — submitted and browsed by the community.",
