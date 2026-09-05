@@ -46,7 +46,7 @@
             "id": 1117217637,
             "language": "Nix",
             "license": "0BSD",
-            "last_commit": "2026-09-03T22:05:48Z",
+            "last_commit": "2026-09-04T23:04:10Z",
             "open_issues": 0,
             "owner": "LambBread",
             "repo": "my-dotfiles",
@@ -81,7 +81,7 @@
             "id": 162295765,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-08-24T10:47:24Z",
+            "last_commit": "2026-09-04T13:39:08Z",
             "open_issues": 1,
             "owner": "nickjj",
             "repo": "dotfriedrice",
@@ -474,7 +474,7 @@
             "id": 1092311957,
             "language": "QML",
             "license": null,
-            "last_commit": "2026-09-01T16:17:24Z",
+            "last_commit": "2026-09-04T09:03:01Z",
             "open_issues": 0,
             "owner": "ESHAYAT102",
             "repo": "dotfiles",
@@ -683,7 +683,7 @@
             "open_issues": 0,
             "owner": "melatonia",
             "repo": "meloworld-dotfiles",
-            "stars": 121,
+            "stars": 122,
             "topics": []
           },
           "first_seen": "2026-08-28T06:44:54.067Z"
@@ -760,7 +760,7 @@
             "id": 1086327762,
             "language": "QML",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-02T17:39:17Z",
+            "last_commit": "2026-09-04T06:35:26Z",
             "open_issues": 0,
             "owner": "ORFLEM",
             "repo": "just_enough_shell",
@@ -833,7 +833,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T00:43:59.500Z",
+    "last_updated": "2026-09-05T00:35:33.730Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated index of Linux desktop configurations — submitted and browsed by the community.",
