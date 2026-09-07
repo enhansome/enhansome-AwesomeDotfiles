@@ -46,7 +46,7 @@
             "id": 1117217637,
             "language": "Nix",
             "license": "0BSD",
-            "last_commit": "2026-09-05T23:00:47Z",
+            "last_commit": "2026-09-06T21:27:32Z",
             "open_issues": 0,
             "owner": "LambBread",
             "repo": "my-dotfiles",
@@ -85,7 +85,7 @@
             "open_issues": 1,
             "owner": "nickjj",
             "repo": "dotfriedrice",
-            "stars": 1329,
+            "stars": 1330,
             "topics": [
               "arch",
               "dotfiles",
@@ -152,7 +152,7 @@
             "id": 867164576,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-01T21:42:49Z",
+            "last_commit": "2026-09-06T14:55:39Z",
             "open_issues": 0,
             "owner": "cebem1nt",
             "repo": "dotfiles",
@@ -169,6 +169,34 @@
         },
         {
           "node_type": "item",
+          "title": "na-ive/nandoroid-shell",
+          "description": "quickshell based hyprland shell, Android custom ROM inspired.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An opinionated Quickshell-based Hyprland shell inspired by Android custom ROMs.",
+            "homepage": "https://nandoroid.naive.my.id/",
+            "id": 1163194639,
+            "language": "QML",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-09-05T15:41:16Z",
+            "open_issues": 0,
+            "owner": "na-ive",
+            "repo": "nandoroid-shell",
+            "stars": 165,
+            "topics": [
+              "hyprland",
+              "linux",
+              "material-design",
+              "nandoroid",
+              "quickshell",
+              "rice"
+            ]
+          },
+          "first_seen": "2026-08-28T06:44:54.067Z"
+        },
+        {
+          "node_type": "item",
           "title": "zhaleff/BlackNode",
           "description": "BlackNode a simple, basic dotfile for hyprland, hyprland configurations, nvim, etc",
           "children": [],
@@ -179,7 +207,7 @@
             "id": 1114105225,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-05T20:22:02Z",
+            "last_commit": "2026-09-06T06:07:17Z",
             "open_issues": 3,
             "owner": "zhaleff",
             "repo": "BlackNode",
@@ -218,7 +246,7 @@
             "id": 1114105225,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-05T20:22:02Z",
+            "last_commit": "2026-09-06T06:07:17Z",
             "open_issues": 3,
             "owner": "zhaleff",
             "repo": "BlackNode",
@@ -241,34 +269,6 @@
               "wallust",
               "waybar",
               "wlogout"
-            ]
-          },
-          "first_seen": "2026-08-28T06:44:54.067Z"
-        },
-        {
-          "node_type": "item",
-          "title": "na-ive/nandoroid-shell",
-          "description": "quickshell based hyprland shell, Android custom ROM inspired.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "An opinionated Quickshell-based Hyprland shell inspired by Android custom ROMs.",
-            "homepage": "https://nandoroid.naive.my.id/",
-            "id": 1163194639,
-            "language": "QML",
-            "license": "AGPL-3.0",
-            "last_commit": "2026-09-05T15:41:16Z",
-            "open_issues": 0,
-            "owner": "na-ive",
-            "repo": "nandoroid-shell",
-            "stars": 163,
-            "topics": [
-              "hyprland",
-              "linux",
-              "material-design",
-              "nandoroid",
-              "quickshell",
-              "rice"
             ]
           },
           "first_seen": "2026-08-28T06:44:54.067Z"
@@ -764,7 +764,7 @@
             "open_issues": 0,
             "owner": "ORFLEM",
             "repo": "just_enough_shell",
-            "stars": 31,
+            "stars": 32,
             "topics": [
               "desktop-shell",
               "dotfiles",
@@ -833,7 +833,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T00:32:48.781Z",
+    "last_updated": "2026-09-07T00:39:58.783Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated index of Linux desktop configurations — submitted and browsed by the community.",
@@ -841,7 +841,7 @@
       "id": 1213933186,
       "language": "JavaScript",
       "license": null,
-      "last_commit": "2026-08-26T02:36:31Z",
+      "last_commit": "2026-09-06T10:19:35Z",
       "open_issues": 0,
       "owner": "zhaleff",
       "repo": "AwesomeDotfiles",
@@ -857,7 +857,7 @@
         "unixporn"
       ]
     },
-    "original_repository_sha": "572850b47c3930048648d71d3ff64fb380618a11",
+    "original_repository_sha": "c25a8b8a98d0f863492b27906f7c74565ada88b1",
     "enhanced_repository": "enhansome/enhansome-AwesomeDotfiles",
     "enhanced_repository_description": null,
     "title": "Awesome AwesomeDotfiles with stars"
