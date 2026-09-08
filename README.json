@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "HynDuf",
             "repo": "dotfiles",
-            "stars": 413,
+            "stars": 412,
             "topics": [
               "arch-linux",
               "bspwm",
@@ -46,7 +46,7 @@
             "id": 1117217637,
             "language": "Nix",
             "license": "0BSD",
-            "last_commit": "2026-09-06T21:27:32Z",
+            "last_commit": "2026-09-07T21:10:54Z",
             "open_issues": 0,
             "owner": "LambBread",
             "repo": "my-dotfiles",
@@ -116,7 +116,7 @@
             "open_issues": 0,
             "owner": "Cybersnake223",
             "repo": "Hypr",
-            "stars": 464,
+            "stars": 466,
             "topics": [
               "anyrun",
               "auto-cpufreq",
@@ -179,7 +179,7 @@
             "id": 1163194639,
             "language": "QML",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-05T15:41:16Z",
+            "last_commit": "2026-09-07T12:10:03Z",
             "open_issues": 0,
             "owner": "na-ive",
             "repo": "nandoroid-shell",
@@ -474,7 +474,7 @@
             "id": 1092311957,
             "language": "QML",
             "license": null,
-            "last_commit": "2026-09-05T08:50:47Z",
+            "last_commit": "2026-09-07T12:12:12Z",
             "open_issues": 0,
             "owner": "ESHAYAT102",
             "repo": "dotfiles",
@@ -604,11 +604,11 @@
             "id": 1018289432,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-08-30T20:39:20Z",
+            "last_commit": "2026-09-07T20:58:08Z",
             "open_issues": 2,
             "owner": "michal-pielka",
             "repo": "dotfiles",
-            "stars": 2,
+            "stars": 3,
             "topics": []
           },
           "first_seen": "2026-08-28T06:44:54.067Z"
@@ -733,7 +733,7 @@
             "id": 393763267,
             "language": "Lua",
             "license": null,
-            "last_commit": "2026-08-31T03:49:02Z",
+            "last_commit": "2026-09-07T15:48:12Z",
             "open_issues": 0,
             "owner": "cr1ogen",
             "repo": "cr1odots",
@@ -833,7 +833,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T00:39:58.783Z",
+    "last_updated": "2026-09-08T00:53:35.335Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated index of Linux desktop configurations — submitted and browsed by the community.",
