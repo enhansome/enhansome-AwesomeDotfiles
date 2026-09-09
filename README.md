@@ -41,7 +41,7 @@
 
 * **[HynDuf/dotfiles](https://github.com/HynDuf/dotfiles) ⭐ 412 | 🐛 0 | 🌐 CSS | 📅 2024-06-10** — `HynDuf`\
   Beautiful, lovely, and warm dotfile, the best dotfile you can find—beautiful, clean, and customizable. Use it now!
-* **[LambBread/my-dotfiles](https://github.com/LambBread/my-dotfiles) ⭐ 1 | 🐛 0 | 🌐 Nix | 📅 2026-09-07** — `anonymous`
+* **[LambBread/my-dotfiles](https://github.com/LambBread/my-dotfiles) ⭐ 1 | 🐛 0 | 🌐 Nix | 📅 2026-09-08** — `anonymous`
 
 </details>
 
@@ -64,10 +64,10 @@
   A classic dotfile built with the traditional dotfile staples of the past, featuring dynamic colors and a touch of Material You 3.
 * **[zhaleff/hyprcraft](https://github.com/zhaleff/hyprcraft) ⭐ 120 | 🐛 1 | 🌐 SCSS | 📅 2026-05-05** — `Zhaleff`\
   Dotfile minimal yet beautiful, simple yet fast, so you can build your own dotfile
-* **[binoymanoj/dotfiles](https://github.com/binoymanoj/dotfiles) ⭐ 71 | 🐛 0 | 🌐 Shell | 📅 2026-08-15** — `anonymous`
+* **[binoymanoj/dotfiles](https://github.com/binoymanoj/dotfiles) ⭐ 70 | 🐛 0 | 🌐 Shell | 📅 2026-08-15** — `anonymous`
 * **[NotAShelf/dotfiles](https://github.com/NotAShelf/dotfiles) ⚠️ Archived** — `NotAshelf`\
   This is where I periodically throw my configuration files. You might be here for something specific, in that case I recommend that you scroll below for the repository map and find what you are looking for
-* **[berthosefin/dots](https://github.com/berthosefin/dots) ⭐ 20 | 🐛 0 | 🌐 Lua | 📅 2026-08-25** — `berthosefin`
+* **[berthosefin/dots](https://github.com/berthosefin/dots) ⭐ 20 | 🐛 0 | 🌐 Lua | 📅 2026-09-08** — `berthosefin`
 * **[AdiKsOnDev/Monoland](https://github.com/AdiKsOnDev/Monoland) ⭐ 19 | 🐛 0 | 🌐 QML | 📅 2026-08-17** — `AdiKsOn`\
   A Monochromatic themed Hyprland rice with Quickshell widgets.
   Sleek animations, MaterialUI-style components, dynamic color-detection based
@@ -76,7 +76,7 @@
 * **[Aktyn/hyprland-setup](https://github.com/Aktyn/hyprland-setup) ⭐ 8 | 🐛 0 | 🌐 QML | 📅 2026-08-23** — `Aktyn`\
   It's a comprehensive, feature-rich Hyprland configuration with Quickshell integration, custom SDDM theme, and carefully selected applications for an optimal desktop experience.
   This project is made for personal use although I'm happy to implement additional features upon request.
-* **[ESHAYAT102/dotfiles](https://github.com/ESHAYAT102/dotfiles) ⭐ 8 | 🐛 0 | 🌐 QML | 📅 2026-09-07** — `Eshayat Al-Wasiu`\
+* **[ESHAYAT102/dotfiles](https://github.com/ESHAYAT102/dotfiles) ⭐ 8 | 🐛 0 | 🌐 QML | 📅 2026-09-08** — `Eshayat Al-Wasiu`\
   Minimal Omarchy rice
 * **[HeroHunterIguess/Darkblue-breakcore-Hyprland](https://github.com/HeroHunterIguess/Darkblue-breakcore-Hyprland/tree/main) ⭐ 3 | 🐛 0 | 🌐 Shell | 📅 2026-07-21** — `raylee`\
   Breakcore / alt future styled rice
@@ -168,7 +168,7 @@ dotfiles not available.
 <details>
 <summary><strong>Debian</strong> (1)</summary>
 
-* **[cr1ogen/cr1odots](https://github.com/cr1ogen/cr1odots) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2026-09-07** — `cr1ogen`\
+* **[cr1ogen/cr1odots](https://github.com/cr1ogen/cr1odots) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2026-09-08** — `cr1ogen`\
   Richfetch on Kitty, mpv player and cava.
 
 </details>
@@ -192,7 +192,7 @@ JES have a simple plugin system: just drop a folder with QML, import in shell.qm
 <details>
 <summary><strong>Void</strong> (1)</summary>
 
-* **[szorfein/dotfiles](https://github.com/szorfein/dotfiles) ⭐ 812 | 🐛 0 | 🌐 Lua | 📅 2026-06-03** — `Szorfein`\
+* **[szorfein/dotfiles](https://github.com/szorfein/dotfiles) ⭐ 813 | 🐛 0 | 🌐 Lua | 📅 2026-06-03** — `Szorfein`\
   SwayFX and EWW
 
 </details>
@@ -202,7 +202,7 @@ JES have a simple plugin system: just drop a folder with QML, import in shell.qm
 <details>
 <summary><strong>Debian</strong> (1)</summary>
 
-* **[LambBread/my-dotfiles](https://github.com/LambBread/my-dotfiles) ⭐ 1 | 🐛 0 | 🌐 Nix | 📅 2026-09-07** — `anonymous`
+* **[LambBread/my-dotfiles](https://github.com/LambBread/my-dotfiles) ⭐ 1 | 🐛 0 | 🌐 Nix | 📅 2026-09-08** — `anonymous`
 
 </details>
 
@@ -226,4 +226,4 @@ made with ♥ by the community · [website](https://awesome-dotfiles.vercel.app)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._

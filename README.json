@@ -46,7 +46,7 @@
             "id": 1117217637,
             "language": "Nix",
             "license": "0BSD",
-            "last_commit": "2026-09-07T21:10:54Z",
+            "last_commit": "2026-09-08T20:51:30Z",
             "open_issues": 0,
             "owner": "LambBread",
             "repo": "my-dotfiles",
@@ -318,7 +318,7 @@
             "open_issues": 0,
             "owner": "binoymanoj",
             "repo": "dotfiles",
-            "stars": 71,
+            "stars": 70,
             "topics": [
               "archlinux",
               "archlinux-dotfiles",
@@ -379,7 +379,7 @@
             "id": 676438222,
             "language": "Lua",
             "license": null,
-            "last_commit": "2026-08-25T02:55:48Z",
+            "last_commit": "2026-09-08T15:06:50Z",
             "open_issues": 0,
             "owner": "berthosefin",
             "repo": "dots",
@@ -474,7 +474,7 @@
             "id": 1092311957,
             "language": "QML",
             "license": null,
-            "last_commit": "2026-09-07T12:12:12Z",
+            "last_commit": "2026-09-08T20:40:35Z",
             "open_issues": 0,
             "owner": "ESHAYAT102",
             "repo": "dotfiles",
@@ -733,7 +733,7 @@
             "id": 393763267,
             "language": "Lua",
             "license": null,
-            "last_commit": "2026-09-07T15:48:12Z",
+            "last_commit": "2026-09-08T02:45:44Z",
             "open_issues": 0,
             "owner": "cr1ogen",
             "repo": "cr1odots",
@@ -802,7 +802,7 @@
             "open_issues": 0,
             "owner": "szorfein",
             "repo": "dotfiles",
-            "stars": 812,
+            "stars": 813,
             "topics": [
               "awesome",
               "dotfiles",
@@ -833,7 +833,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T00:53:35.335Z",
+    "last_updated": "2026-09-09T01:01:44.245Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated index of Linux desktop configurations — submitted and browsed by the community.",
