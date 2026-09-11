@@ -56,7 +56,7 @@
   A minimal, keyboard-driven Hyprland dotfiles setup for Arch Linux. Laptop-first. Script-heavy. Zero bloat.
 * **[cebem1nt/dotfiles](https://github.com/cebem1nt/dotfiles) ⭐ 288 | 🐛 0 | 🌐 Shell | 📅 2026-09-06** — `cebem1nt`\
   Modular, well documented hyprland dotfiles built with classic rofi, swaync and waybar. Also incudes a light & dark theme, a collection of wallpapers and scripts.
-* **[na-ive/nandoroid-shell](https://github.com/na-ive/nandoroid-shell) ⭐ 165 | 🐛 0 | 🌐 QML | 📅 2026-09-07** — `na-ive`\
+* **[na-ive/nandoroid-shell](https://github.com/na-ive/nandoroid-shell) ⭐ 166 | 🐛 0 | 🌐 QML | 📅 2026-09-10** — `na-ive`\
   quickshell based hyprland shell, Android custom ROM inspired.
 * **[zhaleff/BlackNode](https://github.com/zhaleff/BlackNode) ⭐ 163 | 🐛 3 | 🌐 Shell | 📅 2026-09-06** — `Zhaleff`\
   BlackNode a simple, basic dotfile for hyprland, hyprland configurations, nvim, etc
@@ -67,7 +67,7 @@
 * **[binoymanoj/dotfiles](https://github.com/binoymanoj/dotfiles) ⭐ 70 | 🐛 0 | 🌐 Shell | 📅 2026-08-15** — `anonymous`
 * **[NotAShelf/dotfiles](https://github.com/NotAShelf/dotfiles) ⚠️ Archived** — `NotAshelf`\
   This is where I periodically throw my configuration files. You might be here for something specific, in that case I recommend that you scroll below for the repository map and find what you are looking for
-* **[berthosefin/dots](https://github.com/berthosefin/dots) ⭐ 20 | 🐛 0 | 🌐 Lua | 📅 2026-09-09** — `berthosefin`
+* **[berthosefin/dots](https://github.com/berthosefin/dots) ⭐ 20 | 🐛 0 | 🌐 Lua | 📅 2026-09-10** — `berthosefin`
 * **[AdiKsOnDev/Monoland](https://github.com/AdiKsOnDev/Monoland) ⭐ 19 | 🐛 0 | 🌐 QML | 📅 2026-08-17** — `AdiKsOn`\
   A Monochromatic themed Hyprland rice with Quickshell widgets.
   Sleek animations, MaterialUI-style components, dynamic color-detection based
@@ -168,7 +168,7 @@ dotfiles not available.
 <details>
 <summary><strong>Debian</strong> (1)</summary>
 
-* **[cr1ogen/cr1odots](https://github.com/cr1ogen/cr1odots) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2026-09-08** — `cr1ogen`\
+* **[cr1ogen/cr1odots](https://github.com/cr1ogen/cr1odots) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2026-09-10** — `cr1ogen`\
   Richfetch on Kitty, mpv player and cava.
 
 </details>
@@ -226,4 +226,4 @@ made with ♥ by the community · [website](https://awesome-dotfiles.vercel.app)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
