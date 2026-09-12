@@ -58,9 +58,9 @@
   Modular, well documented hyprland dotfiles built with classic rofi, swaync and waybar. Also incudes a light & dark theme, a collection of wallpapers and scripts.
 * **[na-ive/nandoroid-shell](https://github.com/na-ive/nandoroid-shell) ⭐ 166 | 🐛 0 | 🌐 QML | 📅 2026-09-10** — `na-ive`\
   quickshell based hyprland shell, Android custom ROM inspired.
-* **[zhaleff/BlackNode](https://github.com/zhaleff/BlackNode) ⭐ 163 | 🐛 3 | 🌐 Shell | 📅 2026-09-06** — `Zhaleff`\
+* **[zhaleff/BlackNode](https://github.com/zhaleff/BlackNode) ⭐ 163 | 🐛 3 | 🌐 Shell | 📅 2026-09-11** — `Zhaleff`\
   BlackNode a simple, basic dotfile for hyprland, hyprland configurations, nvim, etc
-* **[zhaleff/BlackNode](https://github.com/zhaleff/BlackNode) ⭐ 163 | 🐛 3 | 🌐 Shell | 📅 2026-09-06** — `zhaleff`\
+* **[zhaleff/BlackNode](https://github.com/zhaleff/BlackNode) ⭐ 163 | 🐛 3 | 🌐 Shell | 📅 2026-09-11** — `zhaleff`\
   A classic dotfile built with the traditional dotfile staples of the past, featuring dynamic colors and a touch of Material You 3.
 * **[zhaleff/hyprcraft](https://github.com/zhaleff/hyprcraft) ⭐ 120 | 🐛 1 | 🌐 SCSS | 📅 2026-05-05** — `Zhaleff`\
   Dotfile minimal yet beautiful, simple yet fast, so you can build your own dotfile
@@ -76,7 +76,7 @@
 * **[Aktyn/hyprland-setup](https://github.com/Aktyn/hyprland-setup) ⭐ 8 | 🐛 0 | 🌐 QML | 📅 2026-08-23** — `Aktyn`\
   It's a comprehensive, feature-rich Hyprland configuration with Quickshell integration, custom SDDM theme, and carefully selected applications for an optimal desktop experience.
   This project is made for personal use although I'm happy to implement additional features upon request.
-* **[ESHAYAT102/dotfiles](https://github.com/ESHAYAT102/dotfiles) ⭐ 8 | 🐛 0 | 🌐 QML | 📅 2026-09-08** — `Eshayat Al-Wasiu`\
+* **[ESHAYAT102/dotfiles](https://github.com/ESHAYAT102/dotfiles) ⭐ 8 | 🐛 0 | 🌐 QML | 📅 2026-09-11** — `Eshayat Al-Wasiu`\
   Minimal Omarchy rice
 * **[HeroHunterIguess/Darkblue-breakcore-Hyprland](https://github.com/HeroHunterIguess/Darkblue-breakcore-Hyprland/tree/main) ⭐ 3 | 🐛 0 | 🌐 Shell | 📅 2026-07-21** — `raylee`\
   Breakcore / alt future styled rice
@@ -178,7 +178,7 @@ dotfiles not available.
 <details>
 <summary><strong>NixOS</strong> (1)</summary>
 
-* **[ORFLEM/just\_enough\_shell](https://github.com/ORFLEM/just_enough_shell/tree/main) ⭐ 31 | 🐛 0 | 🌐 QML | 📅 2026-09-04** — `_ORFLEM_`\
+* **[ORFLEM/just\_enough\_shell](https://github.com/ORFLEM/just_enough_shell/tree/main) ⭐ 31 | 🐛 0 | 🌐 QML | 📅 2026-09-11** — `_ORFLEM_`\
   Built for everyday practicality, not trends.
 
 Designed fro Desktop PC
@@ -226,4 +226,4 @@ made with ♥ by the community · [website](https://awesome-dotfiles.vercel.app)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
