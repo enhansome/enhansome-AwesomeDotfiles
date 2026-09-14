@@ -46,7 +46,7 @@
             "id": 1117217637,
             "language": "Nix",
             "license": "0BSD",
-            "last_commit": "2026-09-12T21:32:58Z",
+            "last_commit": "2026-09-13T21:00:27Z",
             "open_issues": 0,
             "owner": "LambBread",
             "repo": "my-dotfiles",
@@ -81,7 +81,7 @@
             "id": 162295765,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-12T11:58:29Z",
+            "last_commit": "2026-09-13T14:43:56Z",
             "open_issues": 1,
             "owner": "nickjj",
             "repo": "dotfriedrice",
@@ -156,7 +156,7 @@
             "open_issues": 0,
             "owner": "cebem1nt",
             "repo": "dotfiles",
-            "stars": 288,
+            "stars": 290,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -179,7 +179,7 @@
             "id": 1163194639,
             "language": "QML",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-10T18:32:07Z",
+            "last_commit": "2026-09-13T08:32:51Z",
             "open_issues": 0,
             "owner": "na-ive",
             "repo": "nandoroid-shell",
@@ -369,27 +369,6 @@
         },
         {
           "node_type": "item",
-          "title": "berthosefin/dots",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 676438222,
-            "language": "Lua",
-            "license": null,
-            "last_commit": "2026-09-12T13:37:06Z",
-            "open_issues": 0,
-            "owner": "berthosefin",
-            "repo": "dots",
-            "stars": 20,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T06:44:54.067Z"
-        },
-        {
-          "node_type": "item",
           "title": "AdiKsOnDev/Monoland",
           "description": "A Monochromatic themed Hyprland rice with Quickshell widgets. Sleek animations, MaterialUI-style components, dynamic color-detection based on the selected Wallpaper.",
           "children": [],
@@ -404,7 +383,28 @@
             "open_issues": 0,
             "owner": "AdiKsOnDev",
             "repo": "Monoland",
-            "stars": 19,
+            "stars": 20,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T06:44:54.067Z"
+        },
+        {
+          "node_type": "item",
+          "title": "berthosefin/dots",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 676438222,
+            "language": "Lua",
+            "license": null,
+            "last_commit": "2026-09-13T16:15:42Z",
+            "open_issues": 0,
+            "owner": "berthosefin",
+            "repo": "dots",
+            "stars": 20,
             "topics": []
           },
           "first_seen": "2026-08-28T06:44:54.067Z"
@@ -474,7 +474,7 @@
             "id": 1092311957,
             "language": "QML",
             "license": null,
-            "last_commit": "2026-09-12T22:10:28Z",
+            "last_commit": "2026-09-13T17:37:12Z",
             "open_issues": 0,
             "owner": "ESHAYAT102",
             "repo": "dotfiles",
@@ -833,7 +833,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T00:35:47.635Z",
+    "last_updated": "2026-09-14T00:42:19.878Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated index of Linux desktop configurations — submitted and browsed by the community.",
@@ -845,7 +845,7 @@
       "open_issues": 0,
       "owner": "zhaleff",
       "repo": "AwesomeDotfiles",
-      "stars": 201,
+      "stars": 202,
       "topics": [
         "awesome",
         "awesome-list",
