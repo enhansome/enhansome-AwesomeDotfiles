@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "HynDuf",
             "repo": "dotfiles",
-            "stars": 410,
+            "stars": 411,
             "topics": [
               "arch-linux",
               "bspwm",
@@ -46,7 +46,7 @@
             "id": 1117217637,
             "language": "Nix",
             "license": "0BSD",
-            "last_commit": "2026-09-16T03:16:20Z",
+            "last_commit": "2026-09-17T02:15:49Z",
             "open_issues": 0,
             "owner": "LambBread",
             "repo": "my-dotfiles",
@@ -85,7 +85,7 @@
             "open_issues": 1,
             "owner": "nickjj",
             "repo": "dotfriedrice",
-            "stars": 1332,
+            "stars": 1333,
             "topics": [
               "arch",
               "dotfiles",
@@ -156,7 +156,7 @@
             "open_issues": 0,
             "owner": "cebem1nt",
             "repo": "dotfiles",
-            "stars": 291,
+            "stars": 292,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -179,11 +179,11 @@
             "id": 1163194639,
             "language": "QML",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-16T20:15:40Z",
+            "last_commit": "2026-09-18T00:53:30Z",
             "open_issues": 0,
             "owner": "na-ive",
             "repo": "nandoroid-shell",
-            "stars": 167,
+            "stars": 168,
             "topics": [
               "hyprland",
               "linux",
@@ -207,11 +207,11 @@
             "id": 1114105225,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-16T21:23:00Z",
+            "last_commit": "2026-09-17T15:14:51Z",
             "open_issues": 3,
             "owner": "zhaleff",
             "repo": "BlackNode",
-            "stars": 164,
+            "stars": 165,
             "topics": [
               "archlinux-dotfiles",
               "btop",
@@ -246,11 +246,11 @@
             "id": 1114105225,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-16T21:23:00Z",
+            "last_commit": "2026-09-17T15:14:51Z",
             "open_issues": 3,
             "owner": "zhaleff",
             "repo": "BlackNode",
-            "stars": 164,
+            "stars": 165,
             "topics": [
               "archlinux-dotfiles",
               "btop",
@@ -833,7 +833,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T01:04:17.119Z",
+    "last_updated": "2026-09-18T00:59:25.987Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated index of Linux desktop configurations — submitted and browsed by the community.",
