@@ -46,7 +46,7 @@
             "id": 1117217637,
             "language": "Nix",
             "license": "0BSD",
-            "last_commit": "2026-09-17T02:15:49Z",
+            "last_commit": "2026-09-18T02:13:21Z",
             "open_issues": 0,
             "owner": "LambBread",
             "repo": "my-dotfiles",
@@ -85,7 +85,7 @@
             "open_issues": 1,
             "owner": "nickjj",
             "repo": "dotfriedrice",
-            "stars": 1333,
+            "stars": 1334,
             "topics": [
               "arch",
               "dotfiles",
@@ -156,7 +156,7 @@
             "open_issues": 0,
             "owner": "cebem1nt",
             "repo": "dotfiles",
-            "stars": 292,
+            "stars": 293,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -179,11 +179,11 @@
             "id": 1163194639,
             "language": "QML",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-18T00:53:30Z",
+            "last_commit": "2026-09-18T17:44:59Z",
             "open_issues": 0,
             "owner": "na-ive",
             "repo": "nandoroid-shell",
-            "stars": 168,
+            "stars": 170,
             "topics": [
               "hyprland",
               "linux",
@@ -198,7 +198,7 @@
         {
           "node_type": "item",
           "title": "zhaleff/BlackNode",
-          "description": "BlackNode a simple, basic dotfile for hyprland, hyprland configurations, nvim, etc",
+          "description": "A classic dotfile built with the traditional dotfile staples of the past, featuring dynamic colors and a touch of Material You 3.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -237,7 +237,7 @@
         {
           "node_type": "item",
           "title": "zhaleff/BlackNode",
-          "description": "A classic dotfile built with the traditional dotfile staples of the past, featuring dynamic colors and a touch of Material You 3.",
+          "description": "BlackNode a simple, basic dotfile for hyprland, hyprland configurations, nvim, etc",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -474,7 +474,7 @@
             "id": 1092311957,
             "language": "QML",
             "license": null,
-            "last_commit": "2026-09-16T23:21:36Z",
+            "last_commit": "2026-09-18T22:58:33Z",
             "open_issues": 0,
             "owner": "ESHAYAT102",
             "repo": "dotfiles",
@@ -755,7 +755,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "JES - fast & mininal desktop shell for Wayland WMs",
+            "description": "JES - fast & minimal desktop shell for Wayland WMs",
             "homepage": null,
             "id": 1086327762,
             "language": "QML",
@@ -775,7 +775,8 @@
               "nixos",
               "quickshell",
               "rice",
-              "sway-config"
+              "sway-config",
+              "wm-agnostic"
             ]
           },
           "first_seen": "2026-08-28T06:44:54.067Z"
@@ -833,33 +834,42 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T00:59:25.987Z",
+    "last_updated": "2026-09-19T00:56:29.084Z",
     "original_repository_info": {
       "archived": false,
-      "description": " A curated index of Linux desktop configurations — submitted and browsed by the community.",
-      "homepage": "https://awesome-dotfiles.vercel.app",
+      "description": "RiceHub — a community gallery for Linux desktop configurations (dotfiles, rices, color palettes) for Hyprland, i3, Sway, bspwm, dwm and more.",
+      "homepage": "https://ricehub.vercel.app",
       "id": 1213933186,
       "language": "JavaScript",
       "license": null,
-      "last_commit": "2026-09-06T10:19:35Z",
+      "last_commit": "2026-09-18T10:38:11Z",
       "open_issues": 0,
       "owner": "zhaleff",
-      "repo": "AwesomeDotfiles",
+      "repo": "RiceHub",
       "stars": 202,
       "topics": [
+        "arch-linux",
         "awesome",
         "awesome-list",
+        "bspwm",
+        "color-pallete",
         "dotfiles",
         "dotfiles-linux",
         "dotfilesl-list",
+        "dwm",
+        "i3wm",
+        "linux",
+        "linux-desktop",
         "ricing",
         "ricing-list",
-        "unixporn"
+        "sway",
+        "unixporn",
+        "wayland"
       ]
     },
-    "original_repository_sha": "c25a8b8a98d0f863492b27906f7c74565ada88b1",
+    "original_repository_sha": "68c6f0772e8478059aed020c6c8ee1f012f850ad",
     "enhanced_repository": "enhansome/enhansome-AwesomeDotfiles",
     "enhanced_repository_description": null,
-    "title": "Awesome AwesomeDotfiles with stars"
+    "title": "Awesome RiceHub with stars"
   }
 }
