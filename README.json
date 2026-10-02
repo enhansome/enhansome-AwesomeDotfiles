@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-10-01T01:47:28.382Z",
+    "last_updated": "2026-10-02T01:59:04.827Z",
     "original_repository_info": {
       "archived": false,
       "description": "RiceHub — a community gallery for Linux desktop configurations (dotfiles, rices, color palettes) for Hyprland, i3, Sway, bspwm, dwm and more.",
@@ -13,7 +13,7 @@
       "open_issues": 0,
       "owner": "zhaleff",
       "repo": "RiceHub",
-      "stars": 204,
+      "stars": 205,
       "topics": [
         "arch-linux",
         "awesome",
