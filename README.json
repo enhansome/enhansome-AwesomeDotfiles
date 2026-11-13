@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-11-12T03:35:11.998Z",
+    "last_updated": "2026-11-13T03:07:15.226Z",
     "original_repository_info": {
       "archived": false,
       "description": "RiceHub — a community gallery for Linux desktop configurations (dotfiles, rices, color palettes) for Hyprland, i3, Sway, bspwm, dwm and more.",
@@ -9,7 +9,7 @@
       "id": 1213933186,
       "language": "JavaScript",
       "license": null,
-      "last_commit": "2026-11-09T17:02:46Z",
+      "last_commit": "2026-11-12T18:28:37Z",
       "open_issues": 0,
       "owner": "zhaleff",
       "repo": "RiceHub",
@@ -34,7 +34,7 @@
         "wayland"
       ]
     },
-    "original_repository_sha": "8ab077b68ecc61e04eebc567b38c89f0edd93a34",
+    "original_repository_sha": "1f96d681995604e0c281a003300e1df9173e0a11",
     "enhanced_repository": "enhansome/enhansome-AwesomeDotfiles",
     "enhanced_repository_description": null,
     "title": "Awesome RiceHub with stars"
