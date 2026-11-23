@@ -28,7 +28,7 @@ Screenshots, color palettes and dotfiles from the community, all in one place.
 
 <!-- RICES:START -->
 
-<p align="center"><b>32</b> setups · <b>9</b> window managers</p>
+<p align="center"><b>33</b> setups · <b>9</b> window managers</p>
 
 <ul>
 <li><a href="#bspwm">bspwm</a>
@@ -97,6 +97,11 @@ Screenshots, color palettes and dotfiles from the community, all in one place.
 <li><a href="#xfce">XFCE</a>
 <ul>
 <li><a href="#lambbread-1">LambBread</a></li>
+</ul>
+</li>
+<li><a href="#other">Other</a>
+<ul>
+<li><a href="#szorfein-1">Szorfein</a></li>
 </ul>
 </li>
 </ul>
@@ -311,6 +316,14 @@ Screenshots, color palettes and dotfiles from the community, all in one place.
 <p><i>XFCE desktop running on Debian. The repository gathers the configuration files, themes and helper scripts behind this setup, so you can see how every piece fits together, borrow the parts you like or adapt the whole thing to your own machine.</i></p>
 <p><a href="https://ricehubx.vercel.app/rice/anonymous-my-rice-m3hghk"><img src="https://i.ibb.co/rKpXr4M9/3bdfbbae-4b1a-4a90-bf8a-0334cb93eeb9-thumb.webp" width="100%" alt="LambBread"></a></p>
 
+## Other
+
+### Szorfein
+
+<p><b>SwayFX + EWW</b> · <a href="https://github.com/szorfein/dotfiles">View repo</a></p>
+<p>minimalist SwayFX, EWW with my editor Vie</p>
+<p><a href="https://ricehubx.vercel.app/rice/szorfein-swayfx-eww-k65ds5"><img src="https://i.ibb.co/N278gxC0/familiar-full.webp" width="100%" alt="Szorfein"></a></p>
+
 <!-- RICES:END -->
 
 ## Contributing
@@ -331,4 +344,4 @@ submit → get reviewed → appear in the gallery + this README
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
